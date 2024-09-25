@@ -1,0 +1,84 @@
+;station_id;date_from;date_to;altitude;latitude;longitude;name;state;Abgabe
+75;79;1931-01-01;2024-09-20;160;50.6718;7.0155;Alfter-Volmershoven;Nordrhein-Westfalen;Frei
+104;110;1931-01-01;2024-09-21;65;52.0487;7.4877;Altenberge;Nordrhein-Westfalen;Frei
+174;187;1941-01-01;2024-09-21;265;51.4188;7.9126;Arnsberg-Holzen;Nordrhein-Westfalen;Frei
+292;325;1941-01-01;2024-09-21;127;51.7948;8.0718;Beckum-Vellern;Nordrhein-Westfalen;Frei
+349;389;1931-01-01;2024-09-21;436;51.0148;8.4318;Berleburg, Bad-Arfeld;Nordrhein-Westfalen;Frei
+434;488;1941-01-01;2024-09-20;127;51.9394;8.5932;Bielefeld-Sennestadt;Nordrhein-Westfalen;Frei
+498;554;1946-01-01;2024-09-21;23;51.8293;6.5365;Bocholt-Liedern (Wasserwerk);Nordrhein-Westfalen;Frei
+499;555;1931-01-01;2024-09-21;110;51.5026;7.2289;Bochum;Nordrhein-Westfalen;Frei
+554;613;1941-01-01;2024-09-21;206;51.5677;9.2324;Borgentreich;Nordrhein-Westfalen;Frei
+558;617;1941-01-01;2024-09-21;47;51.873;6.8863;Borken in Westfalen;Nordrhein-Westfalen;Frei
+581;644;1941-01-01;2024-09-21;150;51.7049;9.1738;Brakel;Nordrhein-Westfalen;Frei
+718;796;1941-01-01;2024-09-21;412;50.7556;8.1257;Burbach-Würgendorf;Nordrhein-Westfalen;Frei
+788;871;1941-01-01;2024-09-21;87;51.9618;7.1585;Coesfeld;Nordrhein-Westfalen;Frei
+817;902;1931-01-01;2024-09-21;573;50.4115;6.5615;Dahlem-Schmidtheim;Nordrhein-Westfalen;Frei
+893;989;1931-01-01;2024-09-21;46;51.5765;6.7849;Dinslaken;Nordrhein-Westfalen;Frei
+925;1024;1931-01-01;2024-09-21;37;51.1157;6.851;Dormagen-Zons;Nordrhein-Westfalen;Frei
+953;1054;1941-01-01;2024-09-21;209;51.6609;9.0783;Driburg, Bad-Dringenberg;Nordrhein-Westfalen;Frei
+1118;1232;1941-01-01;2024-09-21;43;52.1703;7.5637;Emsdetten;Nordrhein-Westfalen;Frei
+1132;1246;1941-01-01;2024-09-21;104;51.8418;8.0607;Ennigerloh-Ostenfelde;Nordrhein-Westfalen;Frei
+1159;1277;1941-01-01;2024-09-20;92;51.0713;6.3278;Erkelenz;Nordrhein-Westfalen;Frei
+1164;1283;1941-01-01;2024-09-21;500;51.0149;8.2824;Erndtebrück-Birkelbach;Nordrhein-Westfalen;Frei
+1179;1300;1938-01-01;2024-09-21;351;51.254;8.1565;Eslohe;Nordrhein-Westfalen;Frei
+1182;1303;1935-01-01;2024-09-21;150;51.4041;6.9677;Essen-Bredeney;Nordrhein-Westfalen;Frei
+1203;1327;1905-01-01;2024-09-21;147;50.7119;6.7905;Weilerswist-Lommersum;Nordrhein-Westfalen;Frei
+1434;1590;1941-01-01;2024-09-21;37;51.4942;6.2463;Geldern-Walbeck;Nordrhein-Westfalen;Frei
+1436;1595;1941-01-01;2024-09-21;91;51.5762;7.0652;Gelsenkirchen-Buer;Nordrhein-Westfalen;Frei
+1711;1891;1888-01-01;2024-09-21;73;51.877;8.3577;Rheda-Wiedenbrück-Lintel;Nordrhein-Westfalen;Frei
+1808;1999;1931-01-01;2024-09-21;23;51.7217;6.5839;Hamminkeln (Mühlenrott);Nordrhein-Westfalen;Frei
+1836;2027;1941-01-01;2024-09-21;63;51.9753;8.2094;Harsewinkel;Nordrhein-Westfalen;Frei
+1864;2062;1931-01-01;2024-09-21;164;51.3845;7.2136;Hattingen-Holthausen;Nordrhein-Westfalen;Frei
+1898;2099;1931-01-01;2024-09-17;131;51.3392;6.9941;Heiligenhaus-Abtsküche;Nordrhein-Westfalen;Frei
+1902;2104;1931-01-01;2024-09-21;385;50.6086;6.5495;Heimbach-Düttling;Nordrhein-Westfalen;Frei
+1933;2135;1931-01-01;2024-01-01;224;50.726;7.3947;Hennef-Lückert;Nordrhein-Westfalen;Frei
+2052;2258;1941-01-01;2024-09-21;94;51.7882;9.426;Höxter-Lüchtringen;Nordrhein-Westfalen;Frei
+2120;2332;1931-01-01;2024-09-20;58;50.65;7.2158;Honnef, Bad;Nordrhein-Westfalen;Frei
+2132;2346;1941-01-01;2024-09-21;242;51.8416;8.9695;Horn-Bad Meinberg - Leopoldst;Nordrhein-Westfalen;Frei
+2144;2358;1941-01-01;2024-09-21;298;51.1434;7.3656;Hückeswagen (Bevertalsperre);Nordrhein-Westfalen;Frei
+2251;2473;1893-11-01;2024-09-21;76;50.9316;6.3431;Jülich (Kläranlage);Nordrhein-Westfalen;Frei
+2259;2483;1926-11-01;2024-09-21;839;51.1803;8.4891;Kahler Asten;Nordrhein-Westfalen;Frei
+2271;2497;1947-01-01;2024-09-21;505;50.5014;6.5264;Kall-Sistig;Nordrhein-Westfalen;Frei
+2279;2505;1941-01-01;2024-09-21;60;51.5854;7.6536;Kamen;Nordrhein-Westfalen;Frei
+2394;2629;1904-10-01;2024-09-21;46;51.7612;6.0954;Kleve;Nordrhein-Westfalen;Frei
+2503;2744;1941-01-01;2024-09-19;305;50.983;7.9682;Kreuztal-Eichen;Nordrhein-Westfalen;Frei
+2560;2810;1941-01-01;2024-09-21;150;51.9446;8.7749;Lage, Kreis Lippe-Hörste;Nordrhein-Westfalen;Frei
+2685;2947;1931-01-01;2024-09-21;286;51.1333;8.0348;Lennestadt-Theten;Nordrhein-Westfalen;Frei
+2701;2968;1945-01-01;2024-09-01;43;50.9894;6.9777;Köln-Stammheim;Nordrhein-Westfalen;Frei
+2703;2970;1931-01-01;2024-09-01;140;51.0933;7.0706;Leverkusen-Pattscheid;Nordrhein-Westfalen;Frei
+2707;2976;1931-01-01;2024-09-07;307;51.6153;8.9009;Lichtenau in Westfalen;Nordrhein-Westfalen;Frei
+2728;2999;1941-01-01;2024-09-21;55;52.1211;7.8699;Lienen-Kattenvenne;Nordrhein-Westfalen;Frei
+2755;3028;1931-01-01;2024-09-21;157;51.7854;8.8388;Lippspringe, Bad;Nordrhein-Westfalen;Frei
+2804;3081;1890-09-01;2024-09-21;65;52.3452;8.6477;Espelkamp-Isenstedt;Nordrhein-Westfalen;Frei
+2909;3201;1931-01-01;2024-09-01;377;51.3742;8.7232;Marsberg-Helminghausen;Nordrhein-Westfalen;Frei
+2910;3202;1941-01-01;2024-09-21;373;51.405;8.862;Marsberg-Leitmar;Nordrhein-Westfalen;Frei
+2923;3215;1931-01-01;2024-09-21;375;51.1683;8.7125;Medebach-Berge;Nordrhein-Westfalen;Frei
+2964;3264;1941-01-01;2024-09-20;348;51.3385;8.2709;Meschede;Nordrhein-Westfalen;Frei
+3014;3316;1941-01-01;2024-01-15;234;51.4926;8.0639;Möhnesee (Möhnetalsperre);Nordrhein-Westfalen;Frei
+3037;3339;1941-01-01;2024-09-21;541;50.5202;6.2084;Monschau-Kalterherberg;Nordrhein-Westfalen;Frei
+3048;3350;1931-01-01;2024-09-21;227;50.865;7.7156;Morsbach;Nordrhein-Westfalen;Frei
+3281;3610;1931-01-01;2024-09-21;294;51.7759;9.0721;Driburg, Bad-Pömbsen;Nordrhein-Westfalen;Frei
+3452;3795;1931-01-01;2024-09-21;49;51.7066;7.3564;Olfen;Nordrhein-Westfalen;Frei
+3590;3952;1891-07-01;2024-09-21;268;51.1956;7.8482;Plettenberg;Nordrhein-Westfalen;Frei
+3695;4063;1941-01-01;2024-09-21;41;52.4461;8.5906;Rahden-Kleinendorf;Nordrhein-Westfalen;Frei
+3775;4150;1941-01-01;2024-09-21;59;51.8118;7.0907;Reken;Nordrhein-Westfalen;Frei
+3852;4231;1890-08-10;2024-09-21;84;52.2104;8.4722;Rödinghausen-Bruchmühlen;Nordrhein-Westfalen;Frei
+3927;4313;1931-01-01;2024-09-21;370;51.4966;8.4342;Rüthen;Nordrhein-Westfalen;Frei
+3979;4371;1935-01-01;2024-09-21;135;52.1042;8.7521;Salzuflen, Bad;Nordrhein-Westfalen;Frei
+4008;4400;1941-01-01;2024-09-21;171;51.5439;8.1808;Sassendorf, Bad-Beusingsen;Nordrhein-Westfalen;Frei
+4093;4488;1931-01-01;2024-09-21;443;51.2127;8.2672;Schmallenberg-Sellinghausen;Nordrhein-Westfalen;Frei
+4299;4708;1941-01-01;2024-09-20;434;50.6466;6.3121;Simmerath (Kalltalsperre);Nordrhein-Westfalen;Frei
+4328;4741;1931-01-01;2024-09-21;152;51.14;7.093;Solingen-Hohenscheid;Nordrhein-Westfalen;Frei
+4393;4810;1931-01-01;2024-09-21;60;51.9971;6.9707;Stadtlohn;Nordrhein-Westfalen;Frei
+4429;4849;1941-01-01;2024-09-21;64;52.1173;7.3411;Steinfurt-Burgsteinfurt;Nordrhein-Westfalen;Frei
+4432;4852;1941-01-01;2024-09-21;82;52.0035;8.3456;Steinhagen-Brockhagen;Nordrhein-Westfalen;Frei
+4819;5271;1931-01-01;2024-09-20;96;51.7576;8.2637;Wadersloh;Nordrhein-Westfalen;Frei
+4903;5360;1941-01-01;2024-09-21;331;51.4319;8.2665;Warstein-Hirschberg;Nordrhein-Westfalen;Frei
+5017;5483;1896-07-01;2024-09-21;244;51.1499;7.1871;Wermelskirchen;Nordrhein-Westfalen;Frei
+5020;5486;1931-01-01;2024-09-21;93;51.7162;7.6834;Werne-Wessel;Nordrhein-Westfalen;Frei
+5044;5513;1891-09-01;2024-09-21;92;52.2902;7.8687;Westerkappeln;Nordrhein-Westfalen;Frei
+5104;5579;1941-01-01;2024-09-21;273;51.5892;9.0296;Willebadessen-Borlinghausen;Nordrhein-Westfalen;Frei
+5143;5619;1931-01-01;2024-09-21;360;51.1637;7.4234;Wipperfürth-Gardeweg;Nordrhein-Westfalen;Frei
+5218;5699;1941-01-01;2024-09-21;312;51.5427;8.7784;Wünnenberg-Eilern;Nordrhein-Westfalen;Frei
+5236;5717;1937-01-01;2024-09-21;134;51.2256;7.1052;Wuppertal-Buchenhofen;Nordrhein-Westfalen;Frei
+5305;5791;1900-06-07;2024-09-21;189;50.6575;6.6945;Zülpich-Enzen;Nordrhein-Westfalen;Frei

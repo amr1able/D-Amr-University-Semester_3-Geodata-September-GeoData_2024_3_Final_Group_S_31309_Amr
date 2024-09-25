@@ -1,0 +1,26 @@
+;station_id;date_from;date_to;altitude;latitude;longitude;name;state;Abgabe
+50;00257;1881-01-01;2023-12-31;240;48.727;8.2457;Baden-Baden-Geroldsau;Baden-Württemberg;Frei
+51;00259;1881-01-01;2023-12-31;275;47.8064;7.6387;Müllheim;Baden-Württemberg;Frei
+158;00755;1881-01-01;2023-12-31;340;49.5182;9.3213;Buchen, Kr. Neckar-Odenwald;Baden-Württemberg;Frei
+239;01197;1931-01-01;2023-12-31;463;48.9895;10.1312;Ellwangen-Rindelbach;Baden-Württemberg;Frei
+275;01346;1921-01-01;2023-12-31;486;47.8748;8.0038;Feldberg/Schwarzwald;Baden-Württemberg;Frei
+296;01443;1869-01-01;2024-08-31;237;48.0232;7.8343;Freiburg;Baden-Württemberg;Frei
+300;01468;1881-01-01;2023-12-31;797;48.4538;8.409;Freudenstadt;Baden-Württemberg;Frei
+323;01602;1888-01-01;2023-12-31;177;48.433;7.993;Ohlsbach;Baden-Württemberg;Frei
+388;02074;1881-01-01;2023-12-31;518;48.3752;8.98;Hechingen;Baden-Württemberg;Frei
+495;02638;1928-01-01;2023-12-31;974;48.1054;8.7548;Klippeneck;Baden-Württemberg;Frei
+512;02712;1947-01-01;2023-12-31;428;47.6952;9.1307;Konstanz;Baden-Württemberg;Frei
+529;02814;1949-01-01;2023-12-31;687;48.5122;9.7644;Merklingen;Baden-Württemberg;Frei
+557;02953;1946-01-01;2023-12-31;854;47.8597;8.2308;Lenzkirch-Ruhbühl;Baden-Württemberg;Frei
+626;03278;1925-01-01;2023-12-31;354;48.5377;9.2734;Metzingen;Baden-Württemberg;Frei
+651;03402;1881-01-01;2023-12-31;755;48.3851;9.4837;Münsingen-Apfelstetten;Baden-Württemberg;Frei
+714;03761;1947-01-01;2023-12-31;276;49.207;9.5176;Öhringen;Baden-Württemberg;Frei
+763;04094;1919-01-01;2023-12-31;441;47.8062;9.6206;Weingarten, Kr. Ravensburg;Baden-Württemberg;Frei
+775;04169;1929-01-01;2023-12-31;131;48.6703;7.9939;Rheinau-Memprechtshofen;Baden-Württemberg;Frei
+778;04177;1947-01-01;2023-12-31;116;48.9726;8.3301;Rheinstetten;Baden-Württemberg;Frei
+793;04300;1911-01-01;2023-12-31;588;48.1815;8.6356;Rottweil;Baden-Württemberg;Frei
+875;04703;1888-01-01;2023-12-31;581;48.0719;9.1943;Sigmaringen-Laiz;Baden-Württemberg;Frei
+899;04887;1947-01-01;2023-12-31;734;48.6656;9.8648;Stötten;Baden-Württemberg;Frei
+905;04931;1941-01-01;2023-12-31;371;48.6883;9.2235;Stuttgart-Echterdingen;Baden-Württemberg;Frei
+956;05229;1881-01-01;2023-12-31;719;48.0453;8.4608;Villingen-Schwenningen;Baden-Württemberg;Frei
+1070;05906;1881-01-01;2023-12-31;98;49.5063;8.5584;Mannheim;Baden-Württemberg;Frei

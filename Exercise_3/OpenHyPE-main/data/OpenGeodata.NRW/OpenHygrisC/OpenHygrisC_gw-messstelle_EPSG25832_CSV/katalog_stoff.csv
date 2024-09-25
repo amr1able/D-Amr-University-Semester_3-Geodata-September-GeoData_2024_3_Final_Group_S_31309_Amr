@@ -1,0 +1,1967 @@
+stoff_nr;name;beschreibung;cas_id
+1000;Wassertemperatur, gemessen im Zulauf;;
+1001;Relative Luftfeuchte 0.8m, Tagesmittel;;
+1002;Relative Luftfeuchte 0.8m, Tagesminimum;;
+1003;Relative Luftfeuchte 0.8m, Tagesmaximum;;
+1004;Luftdruck, Minimum;;
+1005;Luftdruck, Tagesmittel;;
+1006;Luftdruck, Maximum;;
+1007;Windgeschwindigkeit in 10m, Tagesmittel;;
+1008;Windgeschwindigkeit in 10m, Tagesminimum;;
+1009;Windgeschwindigkeit in 10m, Tagesmaximum;;
+1011;Wassertemperatur;;
+1012;Wassertemperatur, ammoniumrelevant (VWV);;
+1013;Wassertemperatur, Minimum;;
+1014;Wassertemperatur, Maximum;;
+1015;Lufttemperatur;;
+1016;Lufttemperatur, Minimum;;
+1017;Lufttemperatur, Maximum;;
+1018;Wassertemperatur 1m, Tagesmittelwert;;
+1019;Aufwärmspanne;;
+1020;Wassertemperatur 0.3m, Tagesmittelwert;;
+1021;Wassertemperatur 0.3m, Tagesminimum;;
+1022;Wassertemperatur 1m, Tagesminimum;;
+1023;Färbung;;
+1024;Sichttiefe, Sommermittelwert;;
+1025;Wassertemperatur, gleitender 6 Std-Mw;;
+1026;Dampfdruck;;
+1027;Spektraler Abs.-Koeffizient bei 436 nm;;
+1028;Spektraler Abs.-Koeffizient bei 254 nm;;
+1029;Trübung, Messg. d. gestreuten Strahlung;;
+1032;Sichttiefe (Durchsichtigkeitszyl.);;
+1033;Sichttiefe (Sichtscheibe);;
+1035;Trübung;;
+1036;Trübung, Tagesmittel;;
+1037;Trübung, Tagesminimum;;
+1038;Trübung, Tagesmaximum;;
+1039;Trübung, spektr. Schwäch.-Koeffizient;;
+1042;Geruch;;
+1043;Spektraler Abs.-Koeffizient bei 525 nm;;
+1044;Spektraler Abs.-Koeffizient bei 620 nm;;
+1045;Geruchsschwellenwert;;
+1047;cold filter plugging point - Temperatur;;
+1048;Motoren - Octanzahl;;
+1049;Flammpunkt;;
+1053;Spezifische Oberfläche;;
+1054;Brennwert;;
+1055;Säureneutralisationskapazität nach 24h;;
+1056;Baseneutralisationskapazität nach 24h;;
+1057;Dynamische Oberflächenspannung;;
+1058;Temperatur bei 95% Destillatmenge;;
+1059;Destillatmenge bei Temperatur 70°C;;
+1061;pH-Wert;;
+1062;pH-Wert, Minimum;;
+1063;pH-Wert, Maximum;;
+1064;Dichte bei Normtemperatur;;
+1066;Säurezahl;;
+1067;Oxidationsstabilität;;
+1068;Sulfatasche;;
+1069;Destillatmenge bei Temperatur 100°C;;
+1072;Redox-Spannung;;
+1074;Destillatmenge bei Temperatur 150°C;;
+1075;Kalziumkarbonatsättigung;;
+1076;Destillatmenge bei Temperatur 250°C;;
+1077;Destillatmenge bei Temperatur 350°C;;
+1082;Elektrische Leitfähigkeit bei 25°C;;
+1083;Leitfähigkeit;;
+1084;Leitfähigkeit, Minimum;;
+1085;Leitfähigkeit, Maximum;;
+1089;Solarität, Tagesmittel;;
+1090;Strahlungsbilanz , Tagesmittel;;
+1091;Strahlungsbilanz, Tagesminimum;;
+1092;Strahlungsbilanz, Tagesmaximum;;
+1093;Globalstrahlung, Tagesmittel;;
+1094;Globalstrahlung, Tagesminimum;;
+1095;Globalstrahlung, Tagesmaximum;;
+1105;Neodym;;7440-00-8
+1106;Samarium;;7440-19-9
+1107;Dysprosium;;7429-91-6
+1108;Erbium;;7440-52-0
+1109;Ytterbium;;7440-64-4
+1111;Lithium;;7439-93-2
+1112;Natrium;;7440-23-5
+1113;Kalium;;7440-09-7
+1114;Rubidium;;7440-17-7
+1115;Cäsium;;7440-46-2
+1116;Kaliumoxid;;12136-45-7
+1119;Beryllium;;7440-41-7
+1121;Magnesium;;7439-95-4
+1122;Calcium;;7440-70-2
+1123;Strontium;;7440-24-6
+1124;Barium;;7440-39-3
+1125;Magnesiumcarbonat;;546-93-0
+1127;Gallium;;7440-55-3
+1128;Indium;;7440-74-6
+1129;Lanthan;;7439-91-0
+1130;Zirkonium;;7440-67-7
+1131;Aluminium;;7429-90-5
+1132;Thallium;;7440-28-0
+1133;Titan;;7440-32-6
+1134;Titan, gelöst;;
+1136;Hafnium;;7440-58-6
+1137;Zinn;;7440-31-5
+1138;Blei;;7439-92-1
+1139;Cer;;7440-45-1
+1140;Thorium;;7440-29-1
+1141;Vanadium;;7440-62-2
+1142;Arsen;;7440-38-2
+1143;Niob;;7440-03-1
+1144;Yttrium;;7440-65-5
+1145;Antimon;;7440-36-0
+1146;Tantal;;7440-25-7
+1147;Bismut;;7440-69-9
+1151;Chrom;;7440-47-3
+1152;Chromat-Chrom;;
+1154;Chrom VI;;
+1155;Molybdän;;7439-98-7
+1156;Wolfram;;7440-33-7
+1161;Kupfer;;7440-50-8
+1162;Silber;;7440-22-4
+1163;Zink, gelöst;;
+1164;Zink;;7440-66-6
+1165;Cadmium;;7440-43-9
+1166;Quecksilber;;7439-97-6
+1167;Uran;;7440-61-1
+1168;Radon-222;;14859-67-7
+1171;Mangan;;7439-96-5
+1182;Eisen;;7439-89-6
+1183;Eisen, zweiwertig;;
+1184;Eisen, dreiwertig;;
+1185;Eisen, gelöst;;
+1186;Kobalt;;7440-48-4
+1187;Palladium;;7440-05-3
+1188;Nickel;;7440-02-0
+1189;Platin;;7440-06-4
+1190;Rhodium;;7440-16-6
+1191;Iridium;;7439-88-5
+1192;Gadolinium;;7440-54-2
+1210;Iod;;7553-56-2
+1211;Bor;;7440-42-8
+1212;Silizium;;7440-21-3
+1213;Siliziumdioxid;;
+1217;Schwefel, gesamt;;7704-34-9
+1218;Selen;;7782-49-2
+1219;Tellur;;13494-80-9
+1223;Calciumcarbonatsättigung;;
+1224;Hydrogencarbonat;;
+1226;Calciumcarbonatsät. pH-Wert-Schnelltest;;
+1227;Calciumcarbonat;;471-34-1
+1228;Basisch wirksame Stoffe (als CAO);;
+1229;Calciumoxid;;1305-78-8
+1230;Magnesiumoxid;;1309-48-4
+1231;Cyanid, gesamt;;
+1234;Cyanid, leicht freisetzbar;;57-12-5
+1238;Thiocyanat;;
+1239;Stickstoff-gesamt z. Frühjahrszirk.;;
+1241;Stickstoff, gesamt;;
+1242;Stickstoff, mineralisch (NH4, NO3, NO2);;
+1243;Stickstoff, organisch;;
+1244;Nitrat;;
+1245;Nitrat-Stickstoff;;
+1246;Nitrit;;
+1247;Nitrit-Stickstoff;;
+1248;Ammonium;;
+1249;Ammonium-Stickstoff;;
+1250;Hydrazin;;302-01-2
+1251;Hydrolisierbares Phosphat;;
+1252;Perchlorsaeure;;7601-90-3
+1253;Ammoniak-Stickstoff;;
+1254;Ammoniak;;7664-41-7
+1258;Gesamt-P, epilimnischer Sommermittelwert;;
+1259;Gesamt-Phosphor Z.Frühjahrszirkulation;;
+1261;Gesamt-Phosphat;;
+1262;Gesamtphosphat-Phosphor;;
+1263;Ortho-Phosphat;;14265-44-2
+1264;Orthophosphat-Phosphor;;
+1266;Hydrolisierbares Phosphat-P;;
+1267;Organischer Phosphor;;
+1269;Phosphor, gesamt;;7723-14-0
+1270;Diphosphorpentoxid;;1314-56-3
+1279;Ozon;;10028-15-6
+1281;Sauerstoff;;7782-44-7
+1283;Sauerstoffsättigungsindex;;
+1284;Sauerstoff, Tagesminimum;;
+1285;Sauerstoff, Tagesmaximum;;
+1286;Sauerstoff, organisch gebunden;;
+1309;Sulfid, leicht freisetzbar;;
+1311;Sulfid;;
+1313;Sulfat;;
+1314;Sulfit;;
+1315;Thiosulfat;;
+1316;Schwefelsäure, frei;;
+1317;Sulfid- und Mercaptanschwefel;;
+1318;Sulfat-Schwefel;;
+1319;Halogen, gesamt;;
+1321;Fluorid;;
+1322;Chlor gesamt;;
+1323;Brom gesamt;;7726-95-6
+1324;Bromid;;
+1325;Bromat;;
+1327;Iodid;;
+1331;Chlorid;;
+1332;Chlorid, Minimum;;
+1333;Chlorid, Maximum;;
+1334;Chlorid, Tagesmittel;;
+1335;"Chlordioxid; Chlor; Brom";;
+1336;Chlordioxid;;10049-04-4
+1337;Chlor, gesamt;;7782-50-5
+1338;Chlor, frei;;
+1340;Extrahierbares organ. gebundenes Halogen;;
+1341;Extrahierbares organisch geb. Halogen ;;
+1342;Wirksames Chlor;;
+1343;Adsorbierbare organische Halogenverbindungen (AOX);;
+1344;Adsorbierbarer organische Schwefelverbindungen (AO;;
+1345;Chlorat;;
+1346;Ausblasbare organisch gebundene Halogene;;
+1347;Wasserdampfflüchtige organische Säuren;;
+1348;Organischer Schwefel, gesamt (TOS);;
+1349;Adsorbierbare organische Jodverbindungen (AOJ);;
+1350;Adsorbierbare organische Chlorverbindungen (AOCl);;
+1351;Adsorbierbare organische Fluorverbindungen (AOF);;
+1412;Wassergehalt von Schlämmen;;
+1413;Wassergehalt in Mineralölerzeugnissen;;
+1422;Gesamttrockenrückstand;;
+1424;Gesamtglührückstand;;
+1431;Abdampfrückstand;;
+1432;Filtrattrockenrückstand;;
+1433;Filtratglührückstand;;
+1435;Glührückstand des Abdampfrückstandes;;
+1441;Abfiltrierbare Stoffe (susp. Feststoffe);;
+1442;Abfiltrierbare Stoffe, säureunlöslich;;
+1443;Schwebstoffgehalt;;
+1444;Glührückstand vom Ungelösten;;
+1446;Fremdstoffe;;
+1452;Absetzbare Stoffe, Volumenanteil;;
+1455;Absetzbare Stoffe, Massenkonzentration;;
+1458;Glühverlust der absetzbaren Stoffe;;
+1459;Glührückstand d. Trockenm. d. abs. St.;;
+1463;Restfeuchte;;
+1464;Glührückstand d. Trockenm. v. Schlamm;;
+1465;Glühverlust d. Trockenmasse v. Schlamm;;
+1466;Schlammvolumenanteil;;
+1467;Trockensubstanz, Belebtschlamm;;
+1468;Schlammindex;;
+1469;Trockenrückstand;;
+1472;Säurekapazität bis pH 4,3;;
+1473;Basekapazität bis pH 4,3;;
+1476;Säurekapazität bis pH 8,2;;
+1477;Basekapazität bis pH 8,2;;
+1479;Gesamtalkalinität bis 4,5 und 4,2;;
+1481;Gesamthaerte;;
+1482;Gesamthärte;;
+1484;Carbonat-Härte;;
+1500;Gelöste Stoffe;;
+1516;Hemmung des Wachstums von Lemna Minor;;
+1517;Kohlenwasserstoff-Index C10-C22;;
+1519;Kohlenstoff, gesamt;;
+1521;Organischer Kohlenstoff, gelöst;;
+1523;Organischer Kohlenstoff, gesamt (TOC);;
+1524;Gesamter organischer Kohlenstoff,Minimum;;
+1525;Gesamter organischer Kohlenstoff,Maximum;;
+1526;Anorganischer Kohlenstoff, gesamt;;
+1527;Gesamter Kohlenstoff, Mittel;;
+1528;Gesamter Kohlenstoff, Minimum;;
+1529;Gesamter Kohlenstoff, Maximum;;
+1530;TOC400;;
+1531;Kaliumpermanganat-Verbrauch;;
+1533;Chemischer Sauerstoffbedarf;;
+1535;restlicher Oxidierbarer Kohlenstoff;;
+1536;Kaliumpermanganat-Verbrauch als O2;;
+1537;Permanganat-Index;;
+1538;TIC900;;
+1539;Öl-Identifikation, Übereinstimmung;;
+1546;Phenol-Index;;
+1547;Phenol-Index, gesamt;;
+1548;Aliphatische Kohlenwasserstoffe;;
+1549;Aromatische Kohlenwasserstoffe;;
+1550;Kohlenwasserstoffe;;
+1552;Kohlenwasserstoff-Index;;
+1561;Anionische Tenside;;
+1562;Bismut-Komplexierungsindex;;
+1564;Kationische Tenside;;
+1567;Nichtionische Tenside;;
+1570;Lipophile Stoffe;;
+1571;Direkt abscheidb. lipophile Leichtstoffe;;
+1588;Potenzialklasse der Fischfauna;;
+1589;oekologisches Potenzial;;
+1590;Potenzialklasse des Makrozoobenthos;;
+1591;Kornfraktion kleiner 0,1mm;;
+1592;Kornfraktion kleiner 3,15mm;;
+1593;Zustandsklasse Fischfauna;;
+1594;ökologischer Zustand;;
+1595;Trophie-Bewertungsstufe;;
+1596;Trophie-Index;;
+1597;Zustandsklasse Phytoplankton;;
+1598;Degradation des Makrozoobenthos;;
+1599;Säurezustand des Makrozoobenthos;;
+1600;Erbgutveränderndes Potential (Umu-Test);;
+1601;Zustandsklasse des Makrozoobenthos;;
+1602;Vollst. anaerobe biol. Abbaubarkeit;;
+1603;Aerobe biol. Abbaubarkeit/CSB-Abbg;;
+1604;Aerobe biol. Abbaubarkeit/DOC-Abbg;;
+1605;Aerobe biol. Abbaubarkeit/CSB/ 7 Tage;;
+1606;Aerobe biol. Abbaubarkeit/ DOC/7 Tage;;
+1607;Aerobe biol. Abbaubarkeit /DOC/28 Tage;;
+1608;Biol. abbaub. an- u. nichtion. Tenside;;
+1609;Biologische Abbaubarkeit;;
+1610;Leichte aerobe biol. Abbaubarkeit;;
+1611;Fäulnisfähigkeit;;
+1612;Korngrössenvert., Frakt. kleiner 2um;;
+1613;Korngrössenvert., Frakt. kleiner 20um;;
+1614;Korngrössenvert., Frakt. kleiner 40um;;
+1615;Korngrössenvert., Frakt. kleiner 63um;;
+1616;Korngrössenvert., Frakt. kleiner 125um;;
+1617;Korngrössenvert., Frakt. kleiner 200um;;
+1618;Korngrössenvert., Frakt. kleiner 630um;;
+1619;Korngrössenvert., Frakt.grösser 630um;;
+1621;Biochemischer Sauerstoffbedarf n. 1 Tag;;
+1622;Sauerstoff-Zehrung nach 48 Stunden;;
+1623;Sauerstoffzehrung in 7 Tagen, mit Ath;;
+1624;Sauerstoffzehrung in 5 Tagen;;
+1625;Biochemischer Sauerstoffbedarf ohne Ath;;
+1626;Zustandsklasse der Makrophyten;;
+1627;Biochem. Sauerstoffbedarf o. Ath, in 7Ta;;
+1634;Zustandsklasse der benthischen Diatomeen;;
+1635;Biochem. Sauerstoffbedarf m. Ath, in 5Ta;;
+1636;Trophischer Zustand der benth. Diatomeen;;
+1637;Biochem. Sauerstoffbedarf m. Ath, in 7Ta;;
+1640;Kornfraktion kleiner 5mm;;
+1641;Kornfraktion kleiner 2mm;;
+1642;Kornfraktion kleiner 1mm;;
+1643;Referenzartenindex der benth. Diatomeen;;
+1644;Versauerungszeiger der benth. Diatomeen;;
+1645;Halobienindex der benth. Diatomeen;;
+1646;Zustandsklasse d sonstigen Phytobenthos;;
+1647;Zustandsklasse Makrophyten/Phytobenthos;;
+1648;Zusammensetzung d planktischen Diatomeen;;
+1649;Zusammensetzung d Phytoplankton lebend;;
+1652;Bodenatmung als O2-Aufnahme;;
+1653;Sauerstoffproduktion im Gewässer;;
+1654;Sauerstoffverbrauch im Gewässer;;
+1655;Sauerstoff-Produktionspotential;;
+1656;Bodenatmung als CO2-Abgabe;;
+1657;Sauerstoffrestgehalt nach 48 Stunden;;
+1659;Phytotrophie-Index;;
+1662;Enterokokken;;
+1663;Pseudomonas aeruginosa;;
+1664;Clostridium perfingens;;
+1665;Giftwirkung von Abwasser auf Fischeier;;
+1666;Hemmung der Lichtemission von Vibrio Fi.;;
+1667;Hemmung der Zellvermehrung von Photobact;;
+1668;Hemmung der Zellvermehrung von Vibrio Fi;;
+1669;Chlorophyll-A, Epilimn.Sommermittelwert*;;
+1670;Fischgiftigkeit, Verdünnungsfaktor;;
+1671;Giftwirkung von Abwasser auf Fische;;
+1672;Fischaktivität, Tagesmaximum;;
+1673;Hemmung der Zellvermehrung von Pseud.Put;;
+1674;Hemmung der Lichtemission von Photobact.;;
+1675;Daphnientoxizität;;
+1676;Algengiftigkeit, Fluoreszenzmessung;;
+1677;Algengiftigkeit, Zellzahlbestimmung;;
+1678;Hemmung des Sauerstoffverbrauchs von Psp;;
+1679;Phaeopigmente;;
+1680;Saprobien-Index;;
+1681;Güteklasse;;
+1682;Trophiegrad Istzustand;;
+1683;Chlorophyll-A;;
+1684;Daphnienaktivität, Tagesmittelwert;;
+1685;Daphnienaktivität, Tagesminimum;;
+1686;Daphnienaktivität, Tagesmaximum;;
+1687;Phytoplanktonarten, Sonst. (Frischmasse);;
+1688;Phytoplanktonbiomasse (Frischmasse);;
+1689;Phytoplankton-Zellzahl;;
+1690;Koloniezahl bei (20 plusminus 2) Grad C;;
+1691;Koloniezahl bei (36 plusminus 1) Grad C;;
+1692;Phytoplankton-Biovolumen;;
+1693;Saprobieklasse;;
+1694;Vermehrungsfähige Keime b.(20+-2)Grad C;;
+1695;Coliforme Keime bei (36+-2) Grad C;;
+1696;Coliforme Keime bei 42 Grad C;;
+1697;Escherichia Coli;;
+1698;Fäkalcoliforme Keime;;
+1699;Gesamtcoliforme Keime;;
+1700;Blaualgen (Frischmasse);;
+1701;Grünalgen (Frischmasse);;
+1702;Kieselalgen (Frischmasse);;
+1703;Zooplanktonbiomasse (Frischmasse);;
+1704;Einzeller (Frischmasse);;
+1705;Rädertiere (Frischmasse);;
+1706;Copepoden (Frischmasse);;
+1707;Phyllopoden (Frischmasse);;
+1708;Zooplanktonorganismen, Sonst. (Frischm.);;
+1709;Makrophytengrenze, Unt. (je n. Kart.T);;
+1713;Cryptosporidium parvum;;
+1714;Giardia lamblia;;
+1715;Legionella spp.;;
+1716;17-b-Estradiol-Aequivalentkonzentration;;
+1717;Serogruppe Legionellen;;
+1718;Multiresistente Erreger (MRE);;
+1719;Menge der isolierten DNA;;
+1720;Gesamtzellzahl;;
+1721;Acinetobacter baumannii;;
+1722;Extended-Spektrum Beta-Laktamasen bildende Enterob;;
+1723;Vancomycin-resistente Enterokokken;;
+1724;Acinetobacter baumannii MDR;;
+1725;Pseudomonas aeruginosa MRGN;;
+1726;östrogenes Wirkungspotential;;
+1727;anti-östrogenes Wirkungspotential;;
+1728;androgenes Wirkungspotential;;
+1729;anti-androgenes Wirkungspotential;;
+1730;gentoxisches Wirkungspotential;;
+1731;mutagenes Wirkungspotential;;
+1732;Koloniezahl bei (22 plusminus 2) Grad C;;
+1733;Koloniezahl bei (36 plusminus 2) Grad C;;
+1761;Salmonella;;
+1801;Gesamt-Alpha-Aktivitätskonzentration;;
+1802;Zählfehler Alpha-Aktivität;;
+1803;Gesamt-Beta-Aktivitätskonzentration;;
+1804;Zählfehler Beta-Aktivität;;
+1805;Rest-Beta-Aktivitätskonzentration;;
+1806;Richtdosis (Trinkwasser);;
+1808;Tritium;;10028-17-8
+1809;Zählfehler Tritium-Aktivität;;
+1816;Summe SM TA Luft Klasse II + III;;
+1817;Summe SM TA Luft Klasse II+III reduziert;;
+1818;Summe SM TA Luft Klasse I;;
+1827;Korngrössenvert., Frakt. kleiner 0,63um;;
+1828;Korngrössenvert., Frakt. kleiner 6,3um;;
+1829;Korngrössenvert., Frakt. kleiner 10um;;
+1830;Korngrössenvert., Frakt. kleiner 100um;;
+2000;Dichlormethan;;75-09-2
+2001;Chloroform;;67-66-3
+2002;Tetrachlormethan;;56-23-5
+2003;Tribrommethan;;75-25-2
+2004;Tetrabrommethan;;558-13-4
+2005;1,2-Dichlorethan;;107-06-2
+2006;Bromdichlormethan;;75-27-4
+2007;Dibromchlormethan;;124-48-1
+2008;1,1-Dichlorethan;;75-34-3
+2009;1,2-Dibromethan;;106-93-4
+2010;1,1,1-Trichlorethan;;71-55-6
+2011;1,1,2-Trichlorethan;;79-00-5
+2012;Bromchlormethan;;74-97-5
+2013;1,1,2-Trichlortrifluorethan;;76-13-1
+2014;Bromtrichlormethan;;75-62-7
+2015;1,1,1,2-Tetrachlorethan;;630-20-6
+2016;1,1,2,2-Tetrachlorethan;;79-34-5
+2017;3-Chlorpropen;;107-05-1
+2018;Pentachlorethan;;76-01-7
+2019;Hexachlorethan;;67-72-1
+2020;Trichlorethen;;79-01-6
+2021;Tetrachlorethen;;127-18-4
+2022;1,1-Dichlorethen;;75-35-4
+2023;1,2-Dichlorethen;;540-59-0
+2024;Vinylchlorid;;75-01-4
+2025;1,2-Dichlorpropan;;78-87-5
+2026;1,3-Dichlorpropan;;142-28-9
+2027;1,2,3-Trichlorpropan;;96-18-4
+2028;1,2-Dichlorethen, cis;;156-59-2
+2029;1,2-Dichlorethen, trans;;156-60-5
+2030;Hexachlorbutadien;;87-68-3
+2031;2-Chlorbutadien;;126-99-8
+2032;1,3-Dichlorpropen, cis (Z);;10061-01-5
+2033;1,3-Dichlorpropen, trans (E);;10061-02-6
+2034;2,3-Dichlorpropen;;78-88-6
+2035;N,N-Dimethylformamid;;68-12-2
+2036;N,N-Dibutylformamid;;761-65-9
+2037;1,3-Dichlorpropen;;542-75-6
+2038;1,3-Dichlorpropan-2-ol;;96-23-1
+2039;2,3-Dichlorpropan-1-ol;;616-23-9
+2040;Bis(2-chlorisopropyl)ether;;108-60-1
+2041;Bis(2-chlorisobutyl)ether;;53622-12-1
+2042;Bis(2-chlorethyl)ether;;111-44-4
+2043;Diphenylether;;101-84-8
+2044;1,1,2-Trichlorpropan;;598-77-6
+2045;Summe LHKW nach AbwV als Cl;;
+2046;Trichlornitromethan;;76-06-2
+2047;1,1,1-Trichlortrifluorethan;;354-58-5
+2048;Benzol;;71-43-2
+2049;Methyl-tert-butylether;;1634-04-4
+2050;Chlorbenzol;;108-90-7
+2051;1,2-Dichlorbenzol;;95-50-1
+2052;1,3-Dichlorbenzol;;541-73-1
+2053;1,4-Dichlorbenzol;;106-46-7
+2054;Dichlorbenzol Isom(1,2/1,3/1,4);;25321-22-6
+2055;Brombenzol;;108-86-1
+2056;Summe LHKW nach TVO (THM);;
+2057;Summe LHKW nach AbwV 2002;;
+2058;e-Hexachlorcyclohexan;;6108-10-7
+2059;1,2,3-Trichlorbenzol;;87-61-6
+2060;1,2,4-Trichlorbenzol;;120-82-1
+2061;1,3,5-Trichlorbenzol;;108-70-3
+2062;Azoxystrobin;;131860-33-8
+2063;Cyprodinil;;121552-61-2
+2064;Picolinafen;;137641-05-5
+2065;1,2,3,4-Tetrachlorbenzol;;634-66-2
+2066;1,2,3,5-Tetrachlorbenzol;;634-90-2
+2067;1,2,4,5-Tetrachlorbenzol;;95-94-3
+2068;Quintozen;;82-68-8
+2069;Pentachlorbenzol;;608-93-5
+2070;Hexachlorbenzol;;118-74-1
+2071;PCB-28;;7012-37-5
+2072;PCB-52;;35693-99-3
+2073;PCB-101;;37680-73-2
+2074;PCB-138;;35065-28-2
+2075;Polychlorierte Biphenyle, Summe;;
+2076;PCB-153;;35065-27-1
+2077;PCB-180;;35065-29-3
+2078;PCB-194;;35694-08-7
+2079;PCB-118;;31508-00-6
+2080;Chlor-Nitrobenzol Isom(1,2/1,3/1,4);;25167-93-5
+2081;1-Chlor-2-nitrobenzol;;88-73-3
+2082;1-Chlor-3-nitrobenzol;;121-73-3
+2083;3-Chlor-nitrobenzol;;
+2084;1-Chlor-4-nitrobenzol;;100-00-5
+2085;1,2-Dichlor-4-nitrobenzol;;99-54-7
+2086;1,3-Dichlor-4-nitrobenzol;;611-06-3
+2087;2,3-Dichlornitrobenzol;;3209-22-1
+2088;1-Chlor-2,4-dinitrobenzol;;97-00-7
+2089;1,4-Dichlor-2-nitrobenzol;;89-61-2
+2090;Nitrobenzol;;98-95-3
+2091;1,3-Dinitrobenzol;;99-65-0
+2092;2,3-Dichlortoluol;;32768-54-0
+2093;2,6-Dichlortoluol;;118-69-4
+2094;3,4-Dichlortoluol;;95-75-0
+2095;1,4-Nitrotoluol;;
+2096;2,4_Dichlortoluol;;
+2097;4-Nitrotoluol;;99-99-0
+2098;1,3-Dichlor-5-nitrobenzol;;618-62-2
+2099;2,4-Dichlortoluol;;95-73-8
+2100;2-Chlor-4-nitrotoluol;;121-86-8
+2101;3-Chlor-4-nitrotoluol;;38939-88-7
+2102;4-Chlor-3-nitrotoluol;;89-60-1
+2103;5-Chlor-2-nitrotoluol;;5367-28-2
+2104;Chlornitrotoluol(Isomerengemisch);;25567-68-4
+2105;3-Nitrotoluol;;99-08-1
+2106;2-Nitrotoluol;;88-72-2
+2107;2-Chlor-6-nitrotoluol;;83-42-1
+2108;4-Chlor-2-nitrotoluol;;89-59-8
+2109;Fluquinconazol;;136426-54-5
+2110;a-Hexachlorcyclohexan;;319-84-6
+2111;2-Chlortoluol;;95-49-8
+2112;3-Chlortoluol;;108-41-8
+2113;4-Chlortoluol;;106-43-4
+2114;Amidosulfuron;;120923-37-7
+2115;b-Hexachlorcyclohexan;;319-85-7
+2116;Thifensulfuron-methyl;;79277-27-3
+2117;d-Hexachlorcyclohexan;;319-86-8
+2118;Isophoron;;78-59-1
+2119;Tebuconazol;;107534-96-3
+2120;Heptachlor;;76-44-8
+2121;Clomazon;;81777-89-1
+2122;Rimsulfuron;;122931-48-0
+2123;Alachlor;;15972-60-8
+2124;Aziprotryn;;4658-28-0
+2125;Mirex;;2385-85-5
+2126;Carbofuran;;1563-66-2
+2127;Cypermethrin;;52315-07-8
+2128;Desethylsimazin;;
+2129;Oxadixyl;;77732-09-3
+2130;Telodrin;;297-78-9
+2131;Penconazol;;66246-88-6
+2132;Propetamphos;;31218-83-4
+2133;Propiconazol;;60207-90-1
+2134;Propoxur;;114-26-1
+2135;Octachlorstyrol;;29082-74-4
+2136;1-Chloroctan;;111-85-3
+2137;Glyphosat;;1071-83-6
+2138;Ampa;;1066-51-9
+2139;Quinmerac;;90717-03-6
+2140;Pentachlorphenol;;87-86-5
+2141;2-Bromobiphenyl;;2052-07-5
+2142;2,4-Dibromobiphenyl;;53592-10-2
+2143;2,3',5-Tribromobiphenyl;;59080-35-2
+2144;2,2',4',5-Tetrabromobiphenyl;;60044-24-8
+2145;2,2',4,5,5'-Pentabromobiphenyl;;67888-96-4
+2146;2,2',4,4',6,6'-Hexabromobiphenyl;;59261-08-4
+2147;Decabromobiphenyl;;13654-09-6
+2148;PCB-31;;16606-02-3
+2149;PCB-49;;41464-40-8
+2150;2-Chlorphenol;;95-57-8
+2151;3-Chlorphenol;;108-43-0
+2152;4-Chlorphenol;;106-48-9
+2153;2,2´,4,4´-Tetrabrombiphenylether;;5436-43-1
+2154;2,2´,4,4´,6-Pentabrombiphenylether;;189084-64-8
+2155;2,2´,4,4´,5-Pentabrombiphenylether;;60348-60-9
+2156;2,2´,4,4´,5,6´-Hexabrombiphenylether;;207122-15-4
+2157;2,2´,4,4´,5,5´-Hexabrombiphenylether;;68631-49-2
+2158;2,2´,3,4,4´,5´,6-Heptabrombiphenylether;;207122-16-5
+2159;2,2,3,3,4,4,5,5,6,6Decabrombiphenylether;;1163-19-5
+2160;2,3-Dichlorphenol;;576-24-9
+2161;2,4-Dichlorphenol;;120-83-2
+2162;2,5-Dichlorphenol;;583-78-8
+2163;2,6-Dichlorphenol;;87-65-0
+2164;3,4-Dichlorphenol;;95-77-2
+2165;3,5-Dichlorphenol;;591-35-5
+2166;Quinoxifen;;124495-18-7
+2167;Trifloxystrobin;;141517-21-7
+2168;Carfentrazone-ethyl;;128639-02-1
+2169;Kresoxim-methyl;;143390-89-0
+2170;2,3,4-Trichlorphenol;;15950-66-0
+2171;2,3,5-Trichlorphenol;;933-78-8
+2172;2,3,6-Trichlorphenol;;933-75-5
+2173;2,4,5-Trichlorphenol;;95-95-4
+2174;2,4,6-Trichlorphenol;;88-06-2
+2175;3,4,5-Trichlorphenol;;609-19-8
+2176;Flusilazol;;85509-19-9
+2177;Dimethachlor;;50563-36-5
+2178;2,3,4,6-Tetrachlorphenol;;58-90-2
+2179;2,3,4,5-Tetrachlorphenol;;4901-51-3
+2180;2,3,5,6-Tetrachlorphenol;;935-95-5
+2181;2,2',4,5'-Tetracl-5-me-dm:TCBT 25;;121107-46-8
+2182;2,2',5,5'-Tetracl-4-me-dm:TCBT 36;;121107-54-8
+2183;3,3',4,4'-Tetracl-2-me-dm:TCBT 87;;121107-90-2
+2184;Decachlorbiphenyl (PCB-209);;2051-24-3
+2185;2,2',4,4'-Tetracl-3-me-dm:TCBT 21;;121107-43-5
+2186;2,2',4,4'-Tetracl-5-me-dm:TCBT 22;;121107-44-6
+2187;2,2',4,6'-Tetracl-3-me-dm:TCBT 27;;121107-47-9
+2188;Dimethenamid;;87674-68-8
+2189;2,2',4,6'-Tetracl-5-me-dm:TCBT 28;;121107-48-0
+2190;Silthiofam;;175217-20-6
+2191;2,3',4,4'-Tetracl-5-me-dm:TCBT 52;;121107-65-1
+2192;Cloquintocet-mexyl;;99607-70-2
+2193;2',3,4,4'-Tetracl-6-me-dm:TCBT 74;;121107-77-5
+2194;Mefenpyr-diethyl;;135590-91-9
+2195;2',3,4,6'-Tetracl-6-me-dm:TCBT 80;;121107-83-3
+2196;2-Hydroxybiphenyl;;90-43-7
+2197;4-Hydroxybiphenyl;;92-69-3
+2198;Aclonifen;;74070-46-5
+2199;Tetrachlorbenzyltoluole, Summe;;
+2200;g-Hexachlorcyclohexan;;58-89-9
+2201;Aldrin;;309-00-2
+2202;Parathion-methyl;;298-00-0
+2203;Methoprotryn;;841-06-5
+2204;Parathion-ethyl;;56-38-2
+2205;a-Endosulfan;;959-98-8
+2206;b-Endosulfan;;33213-65-9
+2207;alpha-, beta-Endosulfan (techn. Gemisch);;115-29-7
+2208;Dieldrin;;60-57-1
+2209;Methoxychlor;;72-43-5
+2210;Endrin;;72-20-8
+2211;Dichlobenil;;1194-65-6
+2212;4,4-DDE;;72-55-9
+2213;4,4-DDD (TDE);;72-54-8
+2214;4,4-DDT;;50-29-3
+2215;Aldicarb;;116-06-3
+2216;Chlordan;;57-74-9
+2217;Endosulfansulfat;;1031-07-8
+2218;Isodrin;;465-73-6
+2219;Clopyralid;;1702-17-6
+2220;Fluchloralin;;33245-39-5
+2221;Furalaxyl;;57646-30-7
+2222;Metalaxyl;;57837-19-1
+2223;Triallat;;2303-17-5
+2224;Phenmedipham;;13684-63-4
+2225;Triadimefon;;43121-43-3
+2226;Triadimenol;;55219-65-3
+2227;Flubenzimin;;37893-02-0
+2228;Norflurazon;;27314-13-2
+2229;Propanil;;709-98-8
+2230;Diuron;;330-54-1
+2231;Atrazin;;1912-24-9
+2232;Linuron;;330-55-2
+2233;Buturon;;3766-60-7
+2234;Desethylatrazin;;6190-65-4
+2235;Chlortoluron;;15545-48-9
+2236;Metobromuron;;3060-89-7
+2237;Monolinuron;;1746-81-2
+2238;Methabenzthiazuron;;18691-97-9
+2239;Fenuron;;101-42-8
+2240;Metoxuron;;19937-59-8
+2241;Crimidin;;535-89-7
+2242;Simazin;;122-34-9
+2243;Propazin;;139-40-2
+2244;Chlorpropham;;101-21-3
+2245;Prometryn;;7287-19-6
+2246;Cyanazin;;21725-46-2
+2247;Terbutryn;;886-50-0
+2248;Terbutylazin;;5915-41-3
+2249;Metazachlor;;67129-08-2
+2250;Metolachlor;;51218-45-2
+2251;Isoproturon;;34123-59-6
+2252;2,4-D;;94-75-7
+2253;MCPA;;94-74-6
+2254;Dichlorprop;;120-36-5
+2255;Mecoprop;;93-65-2
+2256;2,4,5-T;;93-76-5
+2257;2,4-DB;;94-82-6
+2258;MCPB;;94-81-5
+2259;Fenoprop;;93-72-1
+2260;Metamitron;;41394-05-2
+2261;Hexazinon;;51235-04-2
+2262;Desisopropylatrazin;;1007-28-9
+2263;Ametryn;;834-12-8
+2264;Metribuzin;;21087-64-9
+2265;Desmetryn;;1014-69-3
+2266;Propham;;122-42-9
+2267;Desethylterbutylazin;;30125-63-4
+2268;Sebutylazin;;7286-69-3
+2269;Pencycuron;;66063-05-6
+2270;Chloroxuron;;1982-47-4
+2271;Fluometuron;;2164-17-2
+2272;Monuron;;150-68-5
+2273;Difenoxuron;;14214-32-5
+2274;Diflubenzuron;;35367-38-5
+2275;Dimefuron;;34205-21-5
+2276;Ethidimuron;;30043-49-3
+2277;Neburon;;555-37-3
+2278;Dichlofluanid;;1085-98-9
+2279;Tolylfluanid;;731-27-1
+2280;Furmecyclox;;60568-05-0
+2281;Bifenox;;42576-02-3
+2282;Siduron;;1982-49-6
+2283;Tebuthiuron;;34014-18-1
+2284;Teflubenzuron;;83121-18-0
+2285;Thiazafluron;;25366-23-8
+2286;SWEP;;1918-18-9
+2287;Iso-Chloridazon;;162354-96-3
+2288;Chloridazon;;1698-60-8
+2289;Bromacil;;314-40-9
+2290;Bentazon;;25057-89-0
+2291;Vinclozolin;;50471-44-8
+2292;EPTC;;759-94-4
+2293;Karbutylat;;4849-32-5
+2294;Pirimicarb;;23103-98-2
+2295;Carbetamid;;16118-49-3
+2296;2,4-DDD (TDE);;53-19-0
+2297;2,4-DDE;;3424-82-6
+2298;2,4-DDT;;789-02-6
+2299;Anilazin;;101-05-3
+2300;Fluoranthen;;206-44-0
+2301;Benzo(b)fluoranthen;;205-99-2
+2302;Benzo(k)fluoranthen;;207-08-9
+2303;Benzfluoranthen, Isomere;;
+2304;Tetrahydronaphthalin;;119-64-2
+2305;Naphthalin;;91-20-3
+2306;1-Methylnaphthalin;;90-12-0
+2307;2-Methylnaphthalin;;91-57-6
+2308;Perylen;;198-55-0
+2309;Deltamethrin;;52918-63-5
+2310;Benzo(ghi)perylen;;191-24-2
+2311;Epoxiconazol;;133855-98-8
+2312;1,3-Dimethylnaphthalin;;575-41-7
+2313;1,8-Dimethylnaphthalin;;569-41-5
+2314;1-Chlornaphthalin;;90-13-1
+2315;Fluroxypyr;;69377-81-7
+2316;cis-Heptachlorepoxid;;1024-57-3
+2317;trans-Heptachlorepoxid;;28044-83-9
+2318;Methiocarb;;2032-65-7
+2319;Pyren;;129-00-0
+2320;Benzo(a)pyren;;50-32-8
+2321;Benzo(e)pyren;;192-97-2
+2322;Napropamid;;15299-99-7
+2323;6-Methylchrysen;;1705-85-7
+2324;Chrysen;;218-01-9
+2325;Dibenz(ah)anthracen;;53-70-3
+2326;Promecarb;;2631-37-0
+2327;Propyzamid;;23950-58-5
+2328;Prosulfocarb;;52888-80-9
+2329;Tebutam;;35256-85-0
+2330;Indeno(1,2,3-cd)pyren;;193-39-5
+2331;Terbumeton;;33693-04-8
+2332;Clofibrinsäure;;882-09-7
+2333;Isooctylphenol;;11081-15-5
+2335;Anthracen;;120-12-7
+2336;Benzo(a)anthracen;;56-55-3
+2337;7,12-Dimethylbenz(a)anthracen;;57-97-6
+2338;4-Nonylphenoxyessigsäure;;3115-49-9
+2339;2,6-Dichlorbenzamid;;2008-58-4
+2340;Phenanthren;;85-01-8
+2341;Dimethylsulfanilid;;4710-17-2
+2342;Dimethylsulftoluidin;;66840-71-9
+2343;Inden;;95-13-6
+2344;Indan;;496-11-7
+2345;Fluoren;;86-73-7
+2346;Acenaphthylen;;208-96-8
+2347;Acenaphthen;;83-32-9
+2348;Mefenacet;;73250-68-7
+2349;Dibenzothiophen;;132-65-0
+2350;Polycyclische aromatische KW, gesamt;;
+2351;Biphenyl;;92-52-4
+2352;Epichlorhydrin;;106-89-8
+2353;Diacetonketogulonsäure;;18467-77-1
+2354;Anthranilsäureisopropylamid;;30391-89-0
+2355;m-Tolylsäurediethylamid;;134-62-3
+2356;Styrol;;100-42-5
+2357;Dinoterb;;1420-07-1
+2358;Dinoseb;;88-85-7
+2359;Dikegulac-Natrium;;52508-35-7
+2360;Tetrasul;;2227-13-6
+2361;Tetradifon;;116-29-0
+2362;Pyridat;;55512-33-9
+2363;Propachlor;;1918-16-7
+2364;Prochloraz;;67747-09-5
+2365;Nitrofen;;1836-75-5
+2366;Picloram;;1918-02-1
+2367;Ethofumesat;;26225-79-6
+2368;Ioxynil;;1689-83-4
+2369;Haloxyfop-ethoxyethyl;;87237-48-7
+2370;Fluazifop-butyl;;69806-50-4
+2371;Flurochloridon;;61213-25-0
+2372;Fluroxypyr-1-methylheptylester;;81406-37-3
+2373;Quizalofop-ethyl;;76578-14-8
+2374;3-Phenyl-4-hydroxy-6-chloropyridazin;;40020-01-7
+2375;4-Hydroxy-4-methyl-2-pentanon;;123-42-2
+2376;3-Methylpyridin;;108-99-6
+2377;Butylglykol;;111-76-2
+2378;2-Methylen-1,3,3-trimethylindol;;118-12-7
+2379;Tetrahydrofuran;;109-99-9
+2380;Triethylamin;;121-44-8
+2381;2-Methylbenzoxazol;;95-21-6
+2382;Benzonitril;;100-47-0
+2383;Butyldiglykol;;112-34-5
+2384;Ciprofloxacin;;85721-33-1
+2385;Flufenaminsäure;;530-78-9
+2386;Imidacloprid;;138261-41-3
+2387;Triphenylphosphinoxid;;791-28-6
+2388;Diethylamin;;109-89-7
+2389;Dimethylamin;;124-40-3
+2390;4-Chloro-ortho-terphenyl;;21711-54-6
+2391;4-Chloro-para-terphenyl;;1762-83-0
+2392;2,4-Dichloro-para-terphenyl;;61576-83-8
+2393;2,5-Dichloro-ortho-terphenyl;;61577-02-4
+2394;2,5-Dichloro-meta-terphenyl;;
+2395;2,5-Dichloro-para-terphenyl;;61576-86-1
+2396;2,4'',5-Trichloro-para-terphenyl;;61576-93-0
+2397;2,4,6-Trichloro-para-terphenyl;;57346-61-9
+2398;2,3,5,6-Tetrachloro-para-terphenyl;;61576-99-6
+2399;2,4,4'',6-Tetrachloro-para-terphenyl;;61576-97-4
+2400;Toluol;;108-88-3
+2401;2,4-Dinitrotoluol;;121-14-2
+2402;2,6-Dinitrotoluol;;606-20-2
+2403;3,4-Dinitrotoluol;;610-39-9
+2404;1,3,5-Trinitrobenzol;;99-35-4
+2405;2,4,6-Trinitrotoluol;;118-96-7
+2406;1,2,3-Trimethylbenzol;;526-73-8
+2407;1,2,4-Trimethylbenzol;;95-63-6
+2408;2-Ethyltoluol;;611-14-3
+2409;Butyl-hydroxytoluol;;128-37-0
+2410;o-Xylol;;95-47-6
+2411;m-Xylol;;108-38-3
+2412;p-Xylol;;106-42-3
+2413;1,3,5-Trimethylbenzol;;108-67-8
+2414;Butylbenzol;;104-51-8
+2415;Ethylbenzol;;100-41-4
+2416;Propylbenzol;;103-65-1
+2417;Isopropylbenzol;;98-82-8
+2418;sec.-Butylbenzol;;135-98-8
+2419;tert.-Butylbenzol;;98-06-6
+2420;Methylisobutylketon;;108-10-1
+2421;Benzylchlorid;;100-44-7
+2422;Benzylidenchlorid;;98-87-3
+2423;4-Chlor-3-methylphenol;;59-50-7
+2424;"2;4-Di-tert-butylphenol";;96-76-4
+2425;Acetophenon;;98-86-2
+2426;PCB-10;;33146-45-1
+2427;PCB-16;;38444-78-9
+2428;PCB-24;;55702-45-9
+2429;PCB-30;;35693-92-6
+2430;PCB-40;;38444-93-8
+2431;PCB-44;;41464-39-5
+2432;PCB-47;;2437-79-8
+2433;PCB-77;;32598-13-3
+2434;PCB-97;;41464-51-1
+2435;PCB-115;;74472-38-1
+2436;PCB-137;;35694-06-5
+2437;PCB-170;;35065-30-6
+2438;PCB-198;;68194-17-2
+2439;PCB-105;;32598-14-4
+2440;Summe Tetrachlordibenzodioxine;;
+2441;Summe Pentachlordibenzodioxine;;
+2442;Summe Hexachlordibenzodioxine;;
+2443;Summe Heptachlordibenzodioxine;;
+2444;PCB-126;;57465-28-8
+2445;1,2,3,4,6,7,8,9-Octachlordibenzodioxin;;3268-87-9
+2446;PCB-169;;32774-16-6
+2447;Summe Tetra- bis Octachlordibenzodioxine;;
+2448;oxi-Chlordan;;27304-13-8
+2449;2,3,7,8-Tetrachlordibenzodioxin;;1746-01-6
+2450;1,2,3,7,8-Pentachlordibenzodioxin;;40321-76-4
+2451;Triclosan;;3380-34-5
+2452;1,2,3,4,7,8-Hexachlordibenzodioxin;;39227-28-6
+2453;1,2,3,6,7,8-Hexachlordibenzodioxin;;57653-85-7
+2454;1,2,3,7,8,9-Hexachlordibenzodioxin;;19408-74-3
+2455;cis-Chlordan;;5103-71-9
+2456;trans-Chlordan;;5103-74-2
+2457;1,2,3,4,6,7,8-Heptachlordibenzodioxin;;35822-46-9
+2458;2,3-Dimethylphenol;;526-75-0
+2459;2,5-Dimethylphenol;;95-87-4
+2460;2,6-Dimethylphenol;;576-26-1
+2461;3,4-Dimethylphenol;;95-65-8
+2462;3,5-Dimethylphenol;;108-68-9
+2463;2,3,5-Trimethylphenol;;697-82-5
+2464;2,3,6-Trimethylphenol;;2416-94-6
+2465;Dibenzofuran;;132-64-9
+2466;Diphenylamin;;122-39-4
+2467;1,5-Dinitronaphthalin;;605-71-0
+2468;1,8-Dinitronaphthalin;;602-38-0
+2469;Internationale Toxizitätsäquivalente ;;
+2470;Summe Tetrachlordibenzofurane;;
+2471;Summe Pentachlordibenzofurane;;
+2472;Summe Hexachlordibenzofurane;;
+2473;Summe Heptachlordibenzofurane;;
+2474;2,4,6-Tetryl;;479-45-8
+2475;1,2,3,4,6,7,8,9-Octachlordibenzofuran;;39001-02-0
+2476;Diglyme;;111-96-6
+2477;Summe Tetra- bis Octachlordibenzofurane;;
+2478;1,2,3,4,8-Pentachlordibenzofuran;;67517-48-0
+2479;2,3,7,8-Tetrachlordibenzofuran;;51207-31-9
+2480;1,2,3,7,8-Pentachlordibenzofuran;;57117-41-6
+2481;2,3,4,7,8-Pentachlordibenzofuran;;57117-31-4
+2482;1,2,3,4,7,8-Hexachlordibenzofuran;;70648-26-9
+2483;1,2,3,6,7,8-Hexachlordibenzofuran;;57117-44-9
+2484;1,2,3,7,8,9-Hexachlordibenzofuran;;72918-21-9
+2485;2,3,4,6,7,8-Hexachlordibenzofuran;;60851-34-5 
+2486;PCB-81;;70362-50-4
+2487;1,2,3,4,6,7,8-Heptachlordibenzofuran;;67562-39-4
+2488;1,2,3,4,7,8,9-Heptachlordibenzofuran;;55673-89-7
+2489;PCB-114;;74472-37-0
+2490;Summe PCDD und PCDF;;
+2491;2,4,8,10-Tetraoxaspiro[5.5]undecan;;126-54-5
+2492;Toxizitätsäquivalente nach BGA;;
+2493;Internationale Toxizitätsäquivalente mBG;;
+2494;p-Cymol;;99-87-6
+2495;a-Methylstyrol;;98-83-9
+2496;p-Diisopropylbenzol;;100-18-5
+2497;3-Ethyltoluol;;620-14-4
+2498;4-Ethyltoluol;;622-96-8
+2500;PCB-123;;65510-44-3
+2501;2,4Dichlor-5fluorbenzoesäuredimethylamid;;
+2502;Caprolactam;;105-60-2
+2503;2,3,4-Trichloranilin;;634-67-3
+2504;3,4,5-Trichloranilin;;634-91-3
+2505;Anilin;;62-53-3
+2506;N-Ethylanilin;;103-69-5
+2507;N,N-Diethylanilin;;91-66-7
+2508;2,6-Diethylanilin;;579-66-8
+2509;N-Methylanilin;;100-61-8
+2510;N,N-Dimethylanilin;;121-69-7
+2511;2-Ethyl-6-methylanilin;;24549-06-2
+2512;4-Methoxyanilin;;104-94-9
+2513;4-Bromanilin;;106-40-1
+2514;2-Chloranilin;;95-51-2
+2515;3-Chloranilin;;108-42-9
+2516;4-Chloranilin;;106-47-8
+2517;4-Isopropylanilin;;99-88-7
+2518;2,4,5-Trichloranilin;;636-30-6
+2519;2,4,6-Trichloranilin;;634-93-5
+2520;3,4-Dichloranilin;;95-76-1
+2521;3,5-Dichloranilin;;626-43-7
+2522;2,4-Dichloranilin;;554-00-7
+2523;2,3-Dichloranilin;;608-27-5
+2524;2,6-Dichloranilin;;608-31-1
+2525;2,5-Dichloranilin;;95-82-9
+2526;4-Chlor-m-toluidin;;7149-75-9
+2527;2,6-Dimethylanilin;;87-62-7
+2528;2,5-Dimethylanilin;;95-78-3
+2529;2,4-Dimethylanilin;;95-68-1
+2530;o-Toluidin;;95-53-4
+2531;m-Toluidin;;108-44-1
+2532;p-Toluidin;;106-49-0
+2533;6-Chlor-o-toluidin;;87-63-8
+2534;2-Chlor-p-toluidin;;615-65-6
+2535;3-Chlor-p-toluidin;;95-74-9
+2536;3-Chlor-o-toluidin;;87-60-5
+2537;5-Chlor-o-toluidin;;95-79-4
+2538;2,3-Dimethylanilin;;87-59-2
+2539;3,4-Dimethylanilin;;95-64-7
+2540;3,5-Dimethylanilin;;108-69-0
+2541;4-Chlor-2,6-dimethylanilin;;24596-18-7
+2542;4-Trifluormethylanilin;;455-14-1
+2543;3-Trifluormethylanilin;;98-16-8
+2544;4-Chlor-2-nitroanilin;;89-63-4
+2545;2-Chlor-4-nitroanilin;;121-87-9
+2546;2-Chlor-5-nitroanilin;;6283-25-6
+2547;Trifluralin;;1582-09-8
+2548;3,3-Dichlorobenzidin;;91-94-1
+2549;Pendimethalin;;40487-42-1
+2550;Morpholin;;110-91-8
+2551;Fenpropimorph;;67564-91-4
+2552;3-Chlor-4-methoxyanilin;;5345-54-0
+2553;Flufenacet;;142459-58-3
+2554;2,6-Diethyl-4-methylanilin;;24544-08-9
+2555;Chinolin;;91-22-5
+2556;2-Methoxyanilin (o-Anisidin);;90-04-0
+2557;2-Ethoxyanilin;;94-70-2
+2558;2-Trifluormethylanilin;;88-17-5
+2559;4-Chlor-2-methylanilin;;95-69-2
+2560;2,6-Dimethyl-4-propylanilin;;93359-87-6
+2561;4-Chlor-2,5-dimethoxyanilin;;6358-64-1
+2562;Benzidin;;92-87-5
+2563;2,2'-Dichlorbenzidin;;84-68-4
+2564;2-Amino-4-chlorphenol;;95-85-2
+2565;Clodinafop-Propargyl;;105512-06-9
+2566;Flurtamone;;96525-23-4
+2567;Fenoxaprop-p-ethyl;;71283-80-2
+2568;N,N-Dimethyl-4-pyridinamin;;1122-58-3
+2569;2,4,6-Collidin;;108-75-8
+2570;2-Chlor-5-methylpyridin;;18368-64-4
+2571;3,5-Dichlorpyridin;;2457-47-8
+2572;Cyanurchlorid (2,4,6-Trcl-1,3,5-triazin);;108-77-0
+2573;Hexogen;;121-82-4
+2574;Octogen;;2691-41-0
+2575;1,2-Dinitrobenzol;;528-29-0
+2576;1,4-Dinitrobenzol;;100-25-4
+2577;2,3-Dinitrotoluol;;602-01-7
+2578;2-Amino-6-nitrotoluol;;603-83-8
+2579;4-Amino-2-nitrotoluol;;119-32-4
+2580;4-Amino-2,6-dinitrotoluol;;19406-51-0
+2581;2-Amino-4,6-dinitrotoluol;;35572-78-2
+2582;2-Aminodiphenylsulfon;;4273-98-7
+2583;3-Nitroanisol;;555-03-3
+2584;2-Nitroanisol;;91-23-6
+2585;4-Nitroanisol;;100-17-4
+2586;Phenol;;108-95-2
+2587;2-Nitrophenol;;88-75-5
+2588;2,4-Dimethylphenol;;105-67-9
+2589;2,4-Dinitrophenol;;51-28-5
+2590;4-Nitrophenol;;100-02-7
+2591;2-Methyl-4,6-dinitrophenol;;534-52-1
+2592;4-Chlor-o-kresol;;1570-64-5
+2593;4-Octylphenol;;1806-26-4
+2594;1-Naphthol;;90-15-3
+2595;2-Naphthol;;135-19-3
+2596;ortho-Kresol;;95-48-7
+2597;meta-Kresol;;108-39-4
+2598;para-Kresol;;106-44-5
+2599;Methylglycindiessigsäure (MGDA);;29578-05-0
+2600;Nitrilotriessigsäure (NTA);;139-13-9
+2601;CTDA (CDTA);;123333-90-4
+2602;EGTA;;67-42-5
+2603;beta-Alanindiessigsäure ;;6245-75-6
+2604;1,3-Propylendinitrilotetraessigsäure;;1939-36-2
+2605;Ethylendinitrilotetraessigsäure (EDTA);;60-00-4
+2606;Pristan;;1921-70-6
+2607;Phytan;;638-36-8
+2608;Diethylentriaminpentaessigsäure (DTPA);;67-43-6
+2609;Diaceton-L-Sorbose;;32717-65-0
+2610;1-Decanol;;112-30-1
+2611;1-Octanol;;111-87-5
+2612;(+-)2-Octanol;;4128-31-8
+2613;1-Dodecanol;;112-53-8
+2614;1-Tetradecanol;;112-72-1
+2615;1-Dimethylaminododecan;;112-18-5
+2616;1-Dimethylaminotetradecan;;112-75-4
+2617;N-Methyl-N-octyl-1-octanamin;;4455-26-9
+2618;Nonan;;111-84-2
+2619;2-Chlorethanol;;107-07-3
+2620;Chloralhydrat;;302-17-0
+2621;Chloressigsäure;;79-11-8
+2622;Bromoxynil;;1689-84-5
+2623;Dicamba;;1918-00-9
+2624;Triclopyr;;55335-06-3
+2625;Diphenylsulphon;;127-63-9
+2626;Diflufenican;;83164-33-4
+2627;Chlorfenvinphos;;470-90-6
+2628;Bromocyclen;;1715-40-8
+2629;Formothion;;2540-82-1
+2630;Lenacil;;2164-08-1
+2631;Ziram;;137-30-4
+2632;Methylisothiocyanat;;556-61-6
+2633;Haloxyfop;;69806-34-4
+2634;1-(3,4-Dichlorphenyl)urea;;2327-02-8
+2635;1-(4-Isopropylphenyl)urea;;56046-17-4
+2636;Chlorbromuron;;13360-45-7
+2637;Ibuprofen;;15687-27-1
+2638;Meclofenaminsäure;;644-62-2
+2639;Diclofenac;;15307-86-5
+2640;Tolfenaminsäure;;13710-19-5
+2641;Naproxen;;22204-53-1
+2642;Gemfibrozil;;25812-30-0
+2643;Ketoprofen;;22071-15-4
+2644;Fenofibrinsäure;;42017-89-0
+2645;Indomethacin;;53-86-1
+2646;Bezafibrat;;41859-67-0
+2647;Phenazon;;60-80-0
+2648;Clofibrat;;637-07-0
+2649;Dimethylaminophenazon;;58-15-1
+2650;Diazepam;;439-14-5
+2651;Etofibrat;;31637-97-5
+2652;Fenofibrat;;49562-28-9
+2653;Carazolol;;57775-29-8
+2654;Betaxolol;;63659-18-7
+2655;Bisoprolol;;66722-44-9
+2656;Metoprolol;;37350-58-6
+2657;Nadolol;;42200-33-9
+2658;Propranolol;;525-66-6
+2659;Dimethylsulfid;;75-18-3
+2660;Bernsteinsäuredimethylester;;106-65-0
+2661;Glutarsäuredimethylester;;1119-40-0
+2662;2-Methyl-propansäure-2,2-dimethyl-1-(2-hydroxy-1-m;;74367-33-2
+2663;2-Me-propansäure, 3-oh-2,4,4-trmepente;;74367-34-3
+2664;Moschus-Keton;;81-14-1
+2665;Moschus-Ambrette;;83-66-9
+2666;Moschus-Xylol;;81-15-2
+2667;Carbamazepin;;298-46-4
+2668;2,2,6,6-Tetramethyl-4-piperidon;;826-36-8
+2669;Bisphenol A;;80-05-7
+2670;Phthalsäuredimethylester;;131-11-3
+2671;Phthalsäurediethylester;;84-66-2
+2672;Phthalsäuredibutylester;;84-74-2
+2673;Phthalsäuredipropylester;;131-16-8
+2674;Phthalsäurediisobutylester;;84-69-5
+2675;Phthalsäuredidecylester;;84-77-5
+2676;Phthalsäurediisooctylester;;27554-26-3
+2677;Phthalsäuredi(N-octyl)ester;;117-84-0
+2678;Phthalsäurediundecylester;;3648-20-2
+2679;Phthalsäuredi(2-ethylhexyl)ester;;117-81-7
+2680;Clenbuterol;;37148-27-9
+2681;Fenoterol;;13392-18-2
+2682;Salbutamol;;18559-94-9
+2683;Terbutalin;;23031-25-6
+2684;Phthalsäuredicyclohexylester;;84-61-7
+2685;Sulfadimidin;;57-68-1
+2686;Phthalsäurebenzylbutylester;;85-68-7
+2687;Phenacetin;;62-44-2
+2688;Pentoxyfyllin;;6493-05-6
+2689;b-Estradiol;;50-28-2
+2690;Estron;;53-16-7
+2691;Sulfamethoxazol;;723-46-6
+2692;Mestranol;;72-33-3
+2693;Chlorpyrifos-ethyl;;2921-88-2
+2694;Limonen;;138-86-3
+2695;alpha-Pinen;;80-56-8
+2696;beta-Myrcen;;123-35-3
+2697;alpha-Terpineol;;98-55-5
+2698;alpha-Terpinolen;;586-62-9
+2699;p-Mentha-trans-2,8-dien-1-ol;;4017-73-6
+2701;Fenoprofen;;31879-05-7
+2702;Tonalid;;1506-02-1
+2703;Galaxolid;;1222-05-5
+2704;Galaxolidon;;256393-37-0
+2705;Phosphorsäuretrimethylester;;512-56-1
+2706;Phosphorsäuretriethylester;;78-40-0
+2707;Phosphorsäuretripropylester;;513-08-6
+2708;Phosphorsäuretris(2-chlorisopropyl)ester;;13674-84-5
+2709;Phosphorsäuretriisobutylester;;126-71-6
+2710;Phosphorsäuretributylester;;126-73-8
+2711;Phosphorsäuretriphenylester;;115-86-6
+2712;Phosphorsäuretrikresylester;;78-32-0
+2713;Triphenylphosphinsulfid;;3878-45-3
+2714;Sulfisoxazol;;127-69-5
+2715;Phosphorsäure-tris-(2-chlorethyl)ester;;115-96-8
+2716;Phosphorsäure-(butoxyethyl)-ester;;78-51-3
+2717;P.säure-tris(1,3-dichlor-isopropyl)ester;;13674-87-8
+2718;Phosphorsäureethester-bis-isopropylamid;;137796-04-4
+2719;Phosphorsäureisopropylamiddiethylester;;22685-19-4
+2720;Coumaphos;;56-72-4
+2721;Diazinon;;333-41-5
+2722;Disulfoton;;298-04-4
+2723;Dichlorvos;;62-73-7
+2724;Etrimphos;;38260-54-7
+2725;Azinphos-methyl;;86-50-0
+2726;Azinphos-ethyl;;2642-71-9
+2727;Trichlorfon;;52-68-6
+2728;Isophenphos;;25311-71-1
+2729;Malathion;;121-75-5
+2730;Dimethoat;;60-51-5
+2731;Fenthion;;55-38-9
+2732;Fenitrothion;;122-14-5
+2733;Mevinphos;;7786-34-7
+2734;Quinalfos;;13593-03-8
+2735;Demeton-S-methyl;;919-86-8
+2736;Demeton-S-methylsulfon;;17040-19-6
+2737;Triazophos;;24017-47-8
+2738;Methamidophos;;10265-92-6
+2739;Fenamiphos;;22224-92-6
+2740;Thiophosphorsäuretrimethylester;;152-18-1
+2741;Thiophosphorsäuretriethylester;;126-68-1
+2742;Methidathion;;950-37-8
+2743;Thiophosphorsäurei.prop.amiddiethylestr;;
+2744;Pyrophosphorsäuretetrethylester;;107-49-3
+2745;Omethoat;;1113-02-6
+2746;Pyrazophos;;13457-18-6
+2747;Pirimiphos-ethyl;;23505-41-1
+2748;Ethion;;563-12-2
+2749;Fenchlorphos;;299-84-3
+2750;Heptenophos;;23560-59-0
+2751;Thiometon;;
+2752;Demeton-O;;298-03-3
+2753;Demeton-O-methyl;;867-27-6
+2754;Demeton-S;;126-75-0
+2755;Oxydemeton-methyl;;301-12-2
+2756;Phoxim;;14816-18-3
+2757;Tolclofos-methyl;;57018-04-9
+2758;Chlorpyrifos-methyl;;5598-13-0
+2759;Boscalid;;188425-85-6
+2760;Dibutylzinndichlorid;;683-18-1
+2761;Dibutylzinnoxid;;818-08-6
+2762;Tributylzinnoxid;;56-35-9
+2763;Triphenylzinnacetat;;900-95-8
+2764;Triphenylzinnchlorid;;639-58-7
+2765;Triphenylzinnhydroxid;;76-87-9
+2766;Tetrabutylzinn;;1461-25-2
+2767;Dibutylzinn-Kation;;14488-53-0
+2768;Tributylzinn-Kation;;36643-28-4
+2769;Triphenylzinn-Kation;;668-34-8
+2770;Monobutylzinn-Kation;;78763-54-9
+2771;Monooctylzinn-Kation;;94410-07-8
+2772;Dioctylzinn-Kation;;250252-87-0
+2773;Tricyclohexylzinn-Kation;;
+2774;Monoheptylzinn-Kation;;
+2775;Diheptylzinn-Kation;;135604-09-0
+2778;Ethinylestradiol;;57-63-6
+2786;Sulcotrion;;99105-77-8
+2787;Mesotrion;;104206-82-8
+2788;Nicosulfuron;;111991-09-4
+2789;Fluazifop-p;;83066-88-0
+2790;Fenoxaprop-p;;113158-40-0
+2791;1,4-Dioxan;;123-91-1
+2792;Perfluoroctansäure;;335-67-1
+2793;Perfluoroktansulfonsäure;;1763-23-1
+2794;PCB-156;;38380-08-4
+2795;PCB-157;;69782-90-7
+2796;PCB-167;;52663-72-6
+2797;PCB-189;;39635-31-9
+2798;Bromophos;;2104-96-3
+2799;Camphechlor;;8001-35-2
+2800;Captan;;133-06-2
+2801;Carbaryl;;63-25-2
+2802;Carbendazim;;10605-21-7
+2803;Dicofol;;115-32-2
+2804;Mancozeb;;8018-01-7
+2805;Permethrin;;52645-53-1
+2806;Phosmet;;732-11-6
+2807;Pyrethrum;;8003-34-7
+2808;Thiram;;137-26-8
+2809;Trichloracetonitril;;545-06-2
+2810;Zineb;;12122-67-7
+2811;Ethyl-tert-butylether;;637-92-3
+2812;Surfynol 104;;126-86-3
+2813;Triglyme;;112-49-2
+2814;Tetraglyme;;143-24-8
+2815;Ameisensäureethylester;;109-94-4
+2816;1,2-Diethylbenzol;;135-01-3
+2817;1,3-Diethylbenzol;;141-93-5
+2818;1,4-Diethylbenzol;;105-05-5
+2819;1-Nitropropan;;108-03-2
+2820;2-Nitropropan;;79-46-9
+2821;1-Butanol;;71-36-3
+2822;Cyclohexanol;;108-93-0
+2823;Cyclohexanon;;108-94-1
+2824;Essigsäurebutylester;;123-86-4
+2825;Essigsäuremethylester;;79-20-9
+2826;Essigsäurepentylester;;628-63-7
+2827;Thiodiglycol;;111-48-8
+2828;Toluolsulfonsäure;;104-15-4
+2829;1-Trichlormethylbenzol;;98-07-7
+2830;2-Butanon;;78-93-3
+2831;Aceton;;67-64-1
+2832;Diethylenglycol;;111-46-6
+2833;Dekahydronaphthalin;;91-17-8
+2834;Dichlordifluormethan;;75-71-8
+2835;Fluortrichlormethan;;75-69-4
+2836;Ethylenglykol;;107-21-1
+2837;N-Phenyl-2-naphthylamin;;135-88-6
+2838;Pyridin;;110-86-1
+2839;Acrylnitril;;107-13-1
+2840;Oxalsäure;;144-62-7
+2841;1,4-Dihydroxybenzol;;123-31-9
+2842;Essigsäurephenylester;;122-79-2
+2843;Essigsäurevinylester;;108-05-4
+2844;4-Nonylphenol;;104-40-5
+2845;4-tert-Octylphenol;;140-66-9
+2846;Diisopropylether;;108-20-3
+2847;Cyclopentan;;287-92-3
+2848;Cyclohexan;;110-82-7
+2849;2-Methyl-2-methoxybutan;;994-05-8
+2850;Ethylenglykoldinitrat;;628-96-6
+2851;Trinitroglycerin;;55-63-0
+2852;Coffein;;58-08-2
+2853;Perfluorbutansäure;;375-22-4
+2854;Perfluorpentansäure;;2706-90-3
+2855;Perfluorhexansäure;;307-24-4
+2856;Perfluorheptansäure;;375-85-9
+2857;Perfluornonansäure;;375-95-1
+2858;Perfluordekansäure;;335-76-2
+2859;Perfluorundekansäure;;2058-94-8
+2860;Perfluordodekansäure;;307-55-1
+2861;Perfluorbutansulfonsäure;;375-73-5
+2862;Perfluorhexansulfonsäure;;355-46-4
+2863;Desmedipham;;13684-56-5
+2864;Mononitrotoluole Summe Isomere;;1321-12-6
+2865;Dinitrotoluole Summe Isomere;;25321-14-6
+2866;Pentabromdiphenylether;;32534-81-9
+2867;Summe 2,4- und 2,6-Dimethylanilin;;
+2868;p-Phenolsulfonsäure;;98-67-9
+2869;Thioharnstoff;;62-56-6
+2870;Pentachlorbenzolthiol;;133-49-3
+2871;2-Mercaptobenzothiazol;;149-30-4
+2872;1,3-Diphenylguanidin;;102-06-7
+2873;Triethanolamin;;102-71-6
+2874;Nitromethan;;75-52-5
+2875;Hexamethylentetramin;;100-97-0
+2876;Ethylacetat;;141-78-6
+2877;Diethylbenzol Isomerengemisch;;25340-17-4
+2878;n-Pentan;;109-66-0
+2879;n-Hexan;;110-54-3
+2880;n-Heptan;;142-82-5
+2881;n-Octan;;111-65-9
+2882;Methylalkohol;;67-56-1
+2883;Ethylalkohol;;64-17-5
+2884;Isopropylalkohol;;67-63-0
+2885;Isobutylalkohol;;78-83-1
+2886;tert-Butylalkohol;;75-65-0
+2887;Asbest;;1332-21-4
+2888;Nonylphenol;;25154-52-3
+2889;Heptachlorepoxid, cis und trans;;
+2890;Demeton;;8065-48-3
+2891;Dibutylzinnsalze ohne Dibusndic, Dibusno;;
+2892;Lineare Alkylbenzolsulfonate, Summe;;
+2893;Alkylphenolethoxylate;;
+2894;Nonylphenolethoxylate;;
+2895;Phosphorsäuretrialkylester, Summe;;
+2896;m-Xylol und p-Xylol;;
+2897;3-Chloranilin und 4-Chloranilin;;
+2898;2,4-Dichloranilin und 2,5-Dichloranilin;;
+2899;o-Toluidin und p-Toluidin;;
+2900;EG-Nr.26 Chlornaphthaline tech. Misch.;;
+2901;EG-Nr.32 Chlornitrotoluole o.4-Cl-2-nto;;
+2902;EG-Nr.42 Chlortoluidine o.2-Cl-p-Toluid.;;
+2903;EG-Nr.46 DDT einschliessl. DDD und DDE;;
+2904;EG-Nr.47 Demeton einschlies. w. Verbnd;;
+2905;EG-Nr.52 Dichloraniline;;
+2906;EG-Nr.56 Dichlorbenzidine;;
+2907;EG-Nr.63 Dichlornitrobenzole;;
+2908;EG-Nr.100 Parathion u. Parathion-methyl;;
+2909;EG-Nr.117 Trichlorbenzole techn. Misch.;;
+2910;EG-Nr.122 Trichlorphenole;;
+2911;EG-Nr.129 Xylole - technische Mischung;;
+2912;EG-Nr.45 2,4-D,einschl.-D-Salze u.-Este;;
+2913;XYLOL (SUMME DER GEHALTE AN O,M,P-XYLOL);;
+2914;Ampicillin;;69-53-4
+2915;Amoxicillin;;26787-78-0
+2916;Azithromycin;;83905-01-5
+2917;Benzylpenicillin;;61-33-6
+2918;Clarithromycin;;81103-11-9
+2919;Clindamycin;;18323-44-9
+2920;Cloxacillin;;61-72-3
+2921;Dicloxacillin;;3116-76-5
+2922;Erythromycin;;114-07-8
+2923;Flucloxacillin;;5250-39-5
+2924;Methicillin;;61-32-5
+2925;Mezlocillin;;51481-65-3
+2926;Nafcillin;;147-52-4
+2927;Oxacillin;;66-79-5
+2928;Phenoxymethylpenicillin;;87-08-1
+2929;Piperacillin;;61477-96-1
+2930;Roxythromycin;;80214-83-1
+2931;Spiramycin;;8025-81-8
+2932;Trimethoprim;;738-70-5
+2933;Tylosin;;1401-69-0
+2934;Ofloxacin;;82419-36-1
+2935;Chlortetracyclin;;57-62-5
+2936;Doxycyclin;;564-25-0
+2937;Oxytetracyclin;;79-57-2
+2938;Tetracyclin;;60-54-8
+2939;Vancomycin;;1404-90-6
+2940;Cyclophosamid;;50-18-0
+2941;Decylbenzolsulfonsaeure Natriumsalz;;1322-98-1
+2942;Undecylbenzolsulfonsaeure Natriumsalz;;27636-75-5
+2943;Dodecylbenzolsulfonsaeure Natriumsalz;;25155-30-0
+2944;Tridecylbenzolsulfonsaeure Natriumsalz;;26248-24-8
+2945;Summe(LAS-C10,C11,C12,C13);;
+2946;Atenolol;;29122-68-7
+2947;Sotalol;;3930-20-9
+2948;Sulfadiazin;;68-35-9
+2949;Acrylamid;;79-06-1
+2950;BTXE;;
+2951;Cetan;;544-76-3
+2953;Aromaten in flüssigen Mineralölprodukten;;
+2954;Olefine in flüssigen Mineralölprodukten;;
+2955;Summe Ether grösser gleich 5 C-Atome;;
+2956;Summe Isomere Hexachlorcyclohexan;;608-73-1
+2957;Summe der Drine;;
+2958;Summe Isomere Trichlorbenzol;;12002-48-1
+2959;Summe Isomere Endosulfan;;
+2960;Summe sonst O2-haltige Verb.in MÖP;;
+2961;Tiamulin fumarat;;55297-96-6
+2962;Sulfathiazol;;72-14-0
+2963;Sulfamerazin;;127-79-7
+2964;Sulfadoxin;;2447-57-6
+2965;Sulfadimethoxin;;122-11-2
+2966;Iopamidol;;60166-93-0
+2967;Iopromid;;73334-07-3
+2968;Iomeprol;;78649-41-9
+2969;Amidotrizoesaeure;;117-96-4
+2970;Ambroxol;;18683-91-5
+2971;Paracetamol;;103-90-2
+2972;Propyphenazon;;479-92-5
+2973;Piroxicam;;36322-90-4
+2974;Phenylhydrazin;;100-63-0
+2975;Trichloressigsaeure;;76-03-9
+2976;1,2,3-Trihydroxybenzol;;87-66-1
+2977;1,2-Dihydroxybenzol;;120-80-9
+2978;1,3-Dihydroxybenzol;;108-46-3
+2979;2-Aminophenol;;95-55-6
+2980;3-Aminophenol;;591-27-5
+2981;4-Aminophenol;;123-30-8
+2983;Essigsaeurebenzylester;;140-11-4
+2984;Summe Tetrachlorbenzole;;
+2985;Summe Aminophenole;;
+2986;Summe Chlorbenzole;;
+2987;Sum kurzkettige Chlorparaffine C10 - C13;;85535-84-8
+2988;Summe Chlorphenole;;
+2989;Summe Diethylbenzole;;
+2990;Summe Kresole;;
+2991;Summe LHKW nach BBodSchV;;
+2992;Summe aus PFOA und PFOS;;
+2993;Malachitgruen oxalat;;2437-29-8
+2994;Sum LHKW der AbwV + cis-1,2-Dichlorethen;;
+2995;4,4-Methoxychlor;;2132-70-9
+2996;Fettsäuremethylester mit 4 und mehr DpB;;
+2997;Monoglyceride;;
+2998;Diglyceride;;
+2999;Triglyceride;;
+3001;Methan;;74-82-8
+3002;Kohlendioxid;;124-38-9
+3003;Formaldehyd;;50-00-0
+3004;Phosphorwasserstoff;;7803-51-2
+3005;1,3-Butadien;;106-99-0
+3006;Monomethylamin;;74-89-5
+3007;Dichlorfluormethan;;75-43-4
+3008;Argon;;7440-37-1
+3009;Exzess-N2;;
+3010;Exzess-N2 als NO3;;
+3011;Stickstoff gasförmig;;7727-37-9
+4000;N,N-Dimethylsulfamid;;3984-14-3
+4001;Fenoxapropethyl;;66441-23-4
+4002;Irgarol 1051;;28159-98-0
+4003;Summe aus Tri- und Tetrachlorethen;;
+4005;Dihydrocodein;;125-28-0
+4006;Codein;;76-57-3
+4007;Perfluoroktansulfonsäure inkl. Isomere;;
+4008;Perfluoroktansäure inkl. Isomere;;
+4009;Perfluorbutansulfonsäure inkl. Isomere;;
+4010;Perfluorhexansulfonsäure inkl. Isomere;;
+4011;Summe aus 9 ausgewählten PFT;;
+4012;Summe aus PFOA und PFOS inkl. Isomere;;
+4013;Summe aus 10 ausgewählten PFT;;
+4014;Desphenyl-chloridazon;;6339-19-1
+4015;Methyl-desphenylchloridazon;;17254-80-7
+4016;Oxazepam;;604-75-1
+4017;Temazepam;;846-50-4
+4018;Fluoxetin;;54910-89-3
+4019;Fludioxonil;;131341-86-1
+4020;Tribenuron methyl;;101200-48-0
+4021;Triflusulfuron-methyl;;126535-15-7
+4022;n-Decan;;124-18-5
+4023;Picoxystrobin;;117428-22-5
+4024;Pyraclostrobin;;175013-18-0
+4025;Sulfamethoxypyridazin;;80-35-3
+4026;Sulfachloropyridazin;;80-32-0
+4027;Sulfaethoxypyridazin;;963-14-4
+4028;Sulfaquinoxalin;;59-40-5
+4029;2,4,4-Tribromdiphenylether;;41318-75-6
+4030;Summe von 6 ausgewählten BDE;;
+4031;para-Nonylphenol verzweigt;;84852-15-3
+4032;Sum Benzo(b)- + Benzo(k)flouranthen;;
+4033;Sum B(ghi)perylen + Indeno(1,2,3cd)pyren;;
+4034;Summe Isomere DDT;;
+4035;Amitrol;;61-82-5
+4036;Barban;;101-27-9
+4037;Bendiocarb;;22781-23-3
+4038;Bensulid;;741-58-2
+4039;Benzthiazuron;;1929-88-0
+4040;Bitertanol;;55179-31-2
+4041;Carboxin;;5234-68-4
+4042;Chlorbufam;;1967-16-4
+4043;Cymoxanil;;57966-95-7
+4044;Dichloran;;99-30-9
+4045;Difenoconazol;;119446-68-3
+4046;Fenpropidin;;67306-00-7
+4047;Fluazinam;;79622-59-6
+4048;lambda-Cyhalothrin;;91465-08-6
+4049;Methomyl;;16752-77-5
+4050;Metosulam;;139528-85-1
+4051;Metsulfuronmethyl;;74223-64-6
+4052;Propamocarb;;24579-73-5
+4053;Pymetrozin;;123312-89-0
+4054;Spiroxamin;;118134-30-8
+4055;Terbacil;;5902-51-2
+4056;Chlorthalonil;;1897-45-6
+4057;Trinexapac;;104273-73-6
+4058;Nonylphenolmonoethoxylat;;104-35-8
+4059;Nonylphenoldiethoxylat;;20427-84-3
+4060;Sulfolan;;126-33-0
+4061;Methylcyclohexan;;108-87-2
+4062;Methylcyclopentan;;96-37-7
+4063;Acridin;;260-94-6
+4064;2,6-Dimethylpyridin;;108-48-5
+4065;Benzothiazol;;95-16-9
+4066;Ethylhexanol;;104-76-7
+4067;sek-Butylethylether;;2679-87-0
+4068;tert-Amylethylether;;919-94-8
+4069;Oseltamivir acid;;187227-45-8
+4070;Chlorthalonil-SA;;
+4071;Metazachlorsäure;;1231244-60-2
+4072;Metazachlorsulfonsäure Na-Salz;;1231710-68-1
+4073;Metolachlor-CA;;152019-73-3
+4074;Metolachlor-ESA Na-Salz;;947601-85-6
+4075;Dimethachlor-CA;;1086384-49-7
+4076;Dimethachlor-SA  Na-Salz;;
+4077;internat. Tox.äquiv. PCB WHO 2005 oBG;;
+4078;internat. Tox.äquiv. PCB WHO 2005 mBG;;
+4079;Pyrimethanil;;53112-28-0
+4080;Haloxyfop-P-methylester;;72619-32-0
+4081;N-Nitroso-Dimethylamin;;62-75-9
+4082;Perfluortetradekansäure;;376-06-7
+4083;3,7-Dimethylperfluoroktansäure;;172155-07-6
+4084;Perfluordekansulfonsäure;;335-77-3
+4085;Perfluoroctylsulfonsäureamid;;754-91-6
+4086;7H-Perfluorheptansäure;;1546-95-8
+4087;H2-Perfluordekansäure;;
+4088;H4-Perfluorundekansäure;;34598-33-9
+4089;H4-Perfluoroktansulfonsäure;;27619-97-2
+4090;Diphenylzinn;;53675-52-8
+4091;int. Tox.äquiv. PCDD/F WHO 1998 oBG;;
+4092;int. Tox.äquiv. PCDD/F WHO 1998 mBG;;
+4093;int. Tox.äquiv. PCDD/F WHO 2005 oBG;;
+4094;int. Tox.äquiv. PCDD/F WHO 2005 mBG;;
+4095;internat. Tox.äquiv. PCB WHO 1998 oBG;;
+4096;internat. Tox.äquiv. PCB WHO 1998 mBG;;
+4097;Benzotriazol;;95-14-7
+4098;4-Methylbenzotriazol;;29878-31-7
+4099;5-Methylbenzotriazol;;136-85-6
+4100;5,6-Dimethylbenzotriazol;;4184-79-6
+4101;Summe 4- und 5-Methylbenzotriazol;;
+4102;Tetrabrombisphenol A;;79-94-7
+4103;H4-Perfluorhexansulfonsäure;;757124-72-4
+4104;Perfluorheptansulfonsäure;;375-92-8
+4105;H4-Perfluordekansulfonsäure;;39108-34-4
+4106;Mesosulfuron;;400852-66-6
+4107;Atraton;;1610-17-9
+4108;Pethoxamid;;106700-29-2
+4109;Topramezone;;210631-68-8
+4110;Dalapon;;75-99-0
+4111;Fensulfothion;;115-90-2
+4112;Dichlofenthion;;97-17-6
+4113;Carbophenothion;;786-19-6
+4114;Endrinaldehyd;;7421-93-4
+4115;Isobumeton;;26259-45-0
+4116;Flumioxazin;;103361-09-7
+4117;Isoxaflutol;;141112-29-0
+4118;Foramsulfuron;;173159-57-4
+4119;Naled;;300-76-5
+4120;Paraoxon-ethyl;;311-45-5
+4121;Prothioconazol;;178928-70-6
+4122;2,2',3,4',4-Pentabromdiphenylether;;182346-21-0
+4123;Acrinathrin;;101007-06-1
+4124;Alpha-Cypermethrin;;67375-30-8
+4125;Beta-Cyfluthrin;;1820573-27-0
+4126;Beta-Sitosterol;;83-46-5
+4127;Cashmeran;;33704-61-9
+4128;Chlormequat-Ion;;7003-89-6
+4129;Dimoxystrobin;;149961-52-4
+4130;Etofenprox;;80844-07-1
+4131;Fenhexamid;;126833-17-8
+4132;Folpet;;133-07-3
+4133;Indoxacarb;;173584-44-6
+4134;Iohexol;;66108-95-0
+4135;Iotalaminsaeure;;2276-90-6
+4136;Ioxitalaminsaeure;;28179-44-4
+4137;Iprodion;;36734-19-7
+4138;N-Acetyl-Sulfamethoxazol;;21312-10-7
+4139;Primidon;;125-33-7
+4140;Pyrimiphos-methyl;;29232-93-7
+4141;Spirodiclofen;;148477-71-8
+4142;Sucralose;;56038-13-2
+4143;Tefluthrin;;79538-32-2
+4144;Tramadol;;27203-92-5
+4145;Summe aus 17 ausgewählten PFT;;
+4146;Glufosinat RS;;51276-47-2
+4147;Acetochlor;;34256-82-1
+4148;Bensulfuron-Methyl;;83055-99-6
+4149;bis(1,3-Dichlor-2-propyl)ether;;59440-89-0
+4150;bis(2,3-Dichlor-1-propyl)ether;;7774-68-7
+4151;1,3Dichl.2propyl(2,3dichl.1propyl)ether;;59440-90-3
+4152;Hexabromcyclododecan;;25637-99-4
+4153;Acesulfam K;;55589-62-3
+4154;Summe LHKW+cis-1,2-Dichlorethen als Cl;;
+4155;Fenamidon;;161326-34-7
+4156;Climbazol;;38083-17-9
+4157;Metalaxyl-CA;;75596-99-5
+4158;Flufenacet-ESA;;201668-32-8
+4159;Benzyldodecyldimethylammoniumbromid;;7281-04-1
+4160;Didecyldimethylammoniumbromid;;2390-68-3
+4161;Irgarol Metabolit 1;;30125-65-6
+4162;Atorvastatin;;134523-00-5
+4163;1,1-Dichlorpropen;;563-58-6
+4164;2,2-Dichlorpropan;;594-20-7
+4165;Dibrommethan;;74-95-3
+4166;1,2-Dibrom-3-chlorpropan;;96-12-8
+4167;Simvastatin;;79902-63-9
+4168;4-tert-Octylphenolmonoethoxylat;;2315-67-5
+4169;4-tert-Octylphenoldiethoxylat;;2315-61-9
+4170;Saccharin;;81-07-2
+4171;Natriumcyclamat;;139-05-9
+4172;Metalaxyl-CA2;;104390-56-9
+4173;Pinoxaden;;243973-20-8
+4174;Metconazole;;125116-23-6
+4175;Florasulam;;145701-23-1
+4176;2-Chlorethylvinylether;;110-75-8
+4177;Ethylparaben;;120-47-8
+4178;Tritolylphosphat;;1330-78-5
+4179;Bromchlorophen;;15435-29-7
+4180;1,6-Dichlorhexan;;2163-00-0
+4181;Timolol;;26839-75-8
+4182;Indoprofen;;31842-01-0
+4183;o-Hydroxyhippursäure;;487-54-7
+4184;Niclosamid;;50-65-7
+4185;Flurbiprofen;;5104-49-4
+4186;Carprofen;;53716-49-7
+4187;Tetrabromo-o-cresol;;576-55-6
+4188;Tolbutamid;;64-77-7
+4189;Salicylsäure;;69-72-7
+4190;Hexachlorphen;;70-30-4
+4191;Ioversol;;87771-40-2
+4192;5-Bromsalicylsäure;;89-55-4
+4193;Methylparaben;;99-76-3
+4194;Propylparaben;;94-13-3
+4195;Butylparaben;;94-26-8
+4196;5-Chlorsalicylsäure;;321-14-2
+4197;Thiamethoxam;;153719-23-4
+4198;Nitenpyram;;150824-47-8
+4199;Thiacloprid;;111988-49-9
+4200;Acetamiprid;;135410-20-7
+4201;Clothianidin;;210880-92-5
+4202;Ritalinsäure;;19395-41-6
+4203;Thiabendazol;;148-79-8
+4204;Thiacloprid-ESA, Na-Salz;;
+4205;Gabapentin;;60142-96-3
+4206;Metformin;;657-24-9
+4207;4-Aminoantipyrin;;83-07-8
+4208;Venlafaxin;;93413-69-5
+4209;10,11-Dihydro-10,11-dihydroxycarbamazepin;;35079-97-1
+4210;4-Formylaminoantipyrin;;1672-58-8
+4211;4-Acetamidoantipyrin;;83-15-8
+4212;PCDD/F+dl-PCB TEQ WHO 2005 mBG;;
+4213;PCDD/F+dl-PCB TEQ WHO 2005 oBG;;
+4214;Imiprothrin;;72963-72-5
+4215;Cyproconazol;;94361-06-5
+4216;Orbencarb;;34622-58-7
+4217;a-Estradiol;;57-91-0
+4218;16a,17b-Estriol;;50-27-1
+4219;16b,17a-Estriol;;793-89-5
+4220;Candesartan;;139481-59-7
+4221;Moxifloxacin Monohydrochlorid;;186826-86-8
+4222;Dehydrato-Erythromycin A;;23893-13-2
+4223;Valsartan;;137862-53-4
+4224;Metronidazol;;443-48-1
+4225;Furosemid;;54-31-9
+4226;Desvenlafaxin Hydrochlorid;;300827-87-6
+4227;Losartan potassium;;124750-99-8
+4229;PFC aus Capstoneprodukt 1183 (A);;
+4230;PFC aus Capstoneprodukt 1157 (B);;
+4231;Cefalexin;;15686-71-2
+4232;Cefixim;;79350-37-1
+4233;Cefotaxim;;63527-52-6
+4234;Ceftazidim;;72558-82-8
+4235;Clopidogrelsäure;;144457-28-3
+4236;Sulfapyridin;;144-83-2
+4237;Prothioconazol-desthio;;120983-64-4
+4238;Chlorthalonil Metabolit M5_R611965;;142733-37-7
+4239;Quinmerac Metabolit BH 518-2;;90717-07-0
+4240;1,2,4-Triazol;;288-88-0
+4241;Trifluoressigsaeure;;76-05-1
+4242;2-Amino-4-nitrotoluol;;99-55-8
+4243;Aldicarb-Sulfon;;1646-88-4
+4244;Aldicarb-Sulfoxid;;1646-87-3
+4245;Aminopyralid;;150114-71-9
+4246;Beflubutamid;;113614-08-7
+4247;Benalaxyl;;71626-11-4
+4248;Benalaxyl-M;;98243-83-5
+4249;Benazolin;;3813-05-6
+4250;Benfluralin;;1861-40-1
+4251;Bromophos-ethyl;;4824-78-6
+4252;Bupirimat;;41483-43-6
+4253;Carfentrazon;;128621-72-7
+4254;Chloramphenicol;;56-75-7
+4255;Chlormequat-Chlorid;;999-81-5
+4256;Chlorsulforon;;64902-72-3
+4257;Summe 10 LHKW;;
+4258;Clethodim;;99129-21-2
+4259;Clodinafop;;114420-56-3
+4260;Cycloxydim;;101205-02-1
+4261;Dapson;;80-08-0
+4262;Desethylsebutylazin;;37019-18-4
+4263;Dimethachlor CGA 373464 (Metabolit);;1196157-87-5
+4264;Dimethachlor CGA 369873 (Metabolit);;
+4265;Dimethachlor SYN 530561 (Metabolit);;1138220-18-4
+4266;Dimethenamid-P (S-Isomer);;163515-14-8
+4267;Dimethomorph;;110488-70-5
+4268;Dinoseb-Acetat;;2813-95-8
+4269;Enoxacin;;74011-58-8
+4270;Enrofloxacin;;93106-60-6
+4271;Fenarimol;;60168-88-9
+4272;Fenoxycarb;;79127-80-3
+4273;Flazasulfuron;;104040-78-0
+4274;Flufenacet OA;;201668-31-7
+4275;Fluoxastrobin;;361377-29-9
+4276;Flupyrsulfuron-methyl;;144740-53-4
+4277;Furazolidon;;67-45-8
+4278;Hexaconazol;;79983-71-4
+4279;Pyrazol;;288-13-1
+4280;Imazalil;;35554-44-0
+4281;Propaquizafop;;111479-05-1
+4282;Meclocyclin;;2013-58-3
+4283;Pindolol;;13523-86-9
+4284;Mesosulfuron-Methyl;;208465-21-8
+4285;Isoxaben;;82558-50-7
+4286;Oleandomycin;;3922-90-5
+4287;1-Methylbenzotriazol;;13351-73-0
+4288;Metalaxyl-M;;70630-17-0
+4289;Norfloxacin;;70458-96-7
+4290;Phosalon;;2310-17-0
+4291;Prometon;;1610-18-0
+4292;Pikrinsäure;;88-89-1
+4293;Imazapyr;;81334-34-1
+4294;Tritosulfuron;;142469-14-5
+4295;Terbufos;;13071-79-9
+4296;Triasulfuron;;82097-50-5
+4297;Sulfotep;;3689-24-5
+4298;Sarkosin-N-Phenylsulfonyl;;46376-16-3
+4299;Thifensulfuron;;79277-67-1
+4300;Iodosulfuron;;185119-76-0
+4301;Ronidazol;;7681-76-7
+4302;Tetraconazol;;112281-77-3
+4303;S-Metolachlor-Metabolit CGA 368208;;1173021-76-5
+4304;S-Metolachlor-Metabolit CGA 357704;;1217465-10-5
+4305;S-Metolachlor-Metabolit CGA 50267;;82508-03-0
+4306;S-Metolachlor-Metabolit CGA 50720;;152019-74-4
+4307;S-Metolachlor-Metabolit NOA 413173;;1418095-19-8
+4308;Fenoxaprop;;95617-09-7
+4309;Hydrochlorthiazid;;58-93-5
+4310;Pregabalin;;148553-50-8
+4311;Lamotrigin;;84057-84-1
+4312;Adenosin;;58-61-7
+4313;Valsartansaeure;;164265-78-5
+4314;Metoprololsaeure;;56392-14-4
+4315;Amisulprid;;71675-85-9
+4316;Ramipril;;87333-19-5
+4317;2,6-Dimethylnaphthalin;;581-42-0
+4318;alpha-Hexabromcyclododecan;;134237-50-6
+4319;beta-Hexabromcyclododecan;;134237-51-7
+4320;gamma-Hexabromcyclododecan;;134237-52-8
+4321;2-Ethylhexyl 4-methoxycinnamate;;5466-77-3
+4322;Oxadiazon;;19666-30-9
+4323;Fipronil;;120068-37-3
+4324;Metazachlor ESA;;172960-62-2
+4325;S-Metolachlor Metabolit CGA 37735;;97055-05-5
+4326;Androsteron;;53-41-8
+4327;Prasteron;;53-43-0
+4328;Epitestosteron;;481-30-1
+4329;Testosteroncypionat;;58-20-8
+4330;Androstanolon;;521-18-6
+4331;Losartan;;114798-26-4
+4332;O-Desvenlafaxin;;93413-62-8
+4333;Metolachlor ESA;;171118-09-5
+4334;3-Chlor-ortho-Toluidin und 3-Chlor-para-Toluidin;;
+4335;Fluopicolid;;239110-15-7
+4336;Propoxycarbazon;;145026-81-9
+4337;Prosulfuron;;94125-34-5
+4338;Tebufenpyrad;;119168-77-3
+4339;2-Hydroxyatrazin;;2163-68-0
+4340;2-Naphthalinsulfonsäure;;120-18-3
+4341;Levetiracetam;;102767-28-2
+4342;Lidocain;;137-58-6
+4343;Sitagliptin;;486460-32-6
+4344;Telmisartan;;144701-48-4
+4345;O,N-Didesmethylvenlafaxin;;135308-74-6
+4346;4'-Hydroxydiclofenac;;64118-84-9
+4347;Buflomedil;;55837-25-7
+4348;Carbamazepin epoxid;;36507-30-9
+4349;N-Guanylharnstoff;;141-83-3
+4350;Irbesartan;;138402-11-6
+4351;N-Desethylvardenafil;;448184-46-1
+4352;Sulfamethoxazo-ß-D-Glucoronid;;14365-52-7
+4353;Sulpirid;;15676-16-1
+4354;Tadalafil;;171596-29-5
+4355;Vardenafil;;224785-90-4
+4356;Summe PAK TVO;;
+4357;Summe PAK EPA;;
+4358;Summe Heptachlor und cis-Heptachlorepoxid;;
+4359;Bifenthrin;;82657-04-3
+4360;Desmethyl-Isoproturon;;34123-57-4
+4361;Triamiphos;;1031-47-6
+4362;Fluazifop;;69335-91-7
+4363;Fluopyram;;658066-35-4
+4364;Metaflumizon;;139968-49-3
+4365;HKW-S (Sum LHKW nach TVO 1990);;
+4366;Cyflufenamid;;180409-60-3
+4367;Dimethenamid ESA;;
+4368;Flonicamid;;158062-67-0
+4369;Flufenacet ESA Natriumsalz;;947601-87-8
+4370;Hexythiazox;;78587-05-0
+4371;Methoxyfenozid;;161050-58-4
+4372;Myclobutanil;;88671-89-0
+4373;Thiopental;;76-75-5
+4374;Paclobutrazol;;76738-62-0
+4375;Terbuthylazin-2-Hydroxy;;66753-07-9
+4376;Triflusulfuron;;135990-29-3
+4377;Prehnitol;;488-23-3
+4378;Terbuthylazin-desethyl-2-hydroxy;;66753-06-8
+4379;Benzo(j)fluoranthen;;205-82-3
+4380;Summe PAK EPA ohne Naphthalin;;
+4381;Propazin-hydroxy;;7374-53-0
+4382;Sebuthylazin-hydroxy;;33124-61-7
+4383;Simazin-hydroxy;;2599-11-3
+4384;Atrazin-desethylhydroxy;;19988-24-0
+4385;Cis-Permetrin;;61949-76-6
+4386;Trans-Permethrin;;61949-77-7
+4387;Esfenvalerat;;66230-04-4
+4388;Tau-Fluvalinat;;102851-06-9
+4389;1-(3,4-Dichlorphenyl)-3-methylurea;;3567-62-2
+4390;Dimethachlor-SA;;
+4391;Thiacloprid-ESA;;
+4392;Acesulfam-H;;33665-90-6
+4393;Cyclamat-H;;100-88-9
+4394;Diemethenamid-P Metabolit M 23;;
+4395;Dimethenamid-P Metabolit M27;;
+4396;Metazachlor Metabolit BH 479-9;;1246215-97-3
+4397;Metazachlor Metabolit BH 479-11;;1242182-77-9
+4398;Metazachlor Metabolit BH 479-12;;
+4399;Acyclovir;;59277-89-3
+4400;Bupropion;;34911-55-2
+4401;Citalopram;;59729-33-8
+4402;Iodipamid;;606-17-7
+4403;Ioxaglinsäure;;59017-64-0
+4404;Oseltamivir;;196618-13-0
+4405;Paroxetin;;61869-08-7
+4406;Sertralin;;79617-96-2
+4407;Aspartam;;22839-47-0
+4408;Saccharin Na;;128-44-9
+4409;trans-Nonachlor;;39765-80-5
+4410;Melamin;;108-78-1
+4411;Ranitidin;;66357-35-5
+4412;Sulfamethizol;;144-82-1
+4413;Eprosartan;;133040-01-4
+4414;Azilsartan;;147403-03-0
+4415;Olmesartan;;144689-24-7
+4416;Oxcarbazepin;;28721-07-5
+4417;Altrenogest;;850-52-2
+4418;RS-Cetirizin;;83881-51-0
+4419;Clotrimazol;;23593-75-1
+4420;Fuberidazol;;3878-19-1
+4421;Imazosulfuron;;122548-33-8
+4422;Triticonazol;;131983-72-7
+4423;Torasemid;;56211-40-6
+4424;2-Aminobenzimidazol;;934-32-7
+4425;4-(Trifluormethyl)phenol;;402-45-9
+4426;Bicalutamid;;90357-06-5
+4427;4-tert-Butylphenol;;98-54-4
+4428;Dimetridazol;;551-92-8
+4429;S-Duloxetin;;116539-59-4
+4430;Fexofenadin;;83799-24-0
+4431;Fluconazol;;86386-73-4
+4432;Flumequin;;42835-25-6
+4433;Ifosfamid;;3778-73-2
+4434;Ivermectin;;70288-86-7
+4435;2R,4S-Ketoconazol;;65277-42-1
+4436;Moclobemid;;71320-77-9
+4437;Nevirapin;;129618-40-2
+4438;Penciclovir;;39809-25-1
+4439;RS-Pentobarbital;;76-74-4
+4440;4-tert-Pentylphenol;;80-46-6
+4441;Phenobarbital;;50-06-6
+4442;Quetiapin;;111974-69-7
+4443;Sildenafil;;139755-83-2
+4444;Tamoxifen;;10540-29-1
+4445;Tizanidin;;51322-75-9
+4446;RS-Verapamil;;52-53-9
+4447;Zidovudin;;30516-87-1
+4448;2-Hydroxycarbamazepin;;68011-66-5
+4449;3-Hydroxycarbamazepin;;68011-67-6
+4450;7-Diethylamino-4-methylcoumarin;;91-44-1
+4451;9-Acridinecarboxylsäure;;5336-90-3
+4452;10,11-Dihydrocarbamazepin;;3564-73-6
+4453;Bixafen;;581809-46-3
+4454;Dithianon;;3347-22-6
+4455;Licarbazepin;;29331-92-8
+4456;Mandipropamid;;374726-62-2
+4457;N,N-Didesvenlafaxin;;93413-77-5
+4458;N4-Acetylsulfadiazin;;127-74-2
+4459;N-Desvenlafaxin;;149289-30-5
+4460;N-Ethylperfluoroctansulfonamid;;4151-50-2
+4461;N-Methylperfluoroctansulfonamid;;31506-32-8
+4462;N-Nitrosodibutylamin;;924-16-3
+4463;N-Nitrosodiethylamin;;55-18-5
+4464;N-Nitrosodipropylamin;;621-64-7
+4465;N-Nitrosomethylethylamin;;10595-95-6
+4466;N-Nitrosomorpholin;;59-89-2
+4467;N-Nitrosopiperidin;;100-75-4
+4468;N-Nitrosopyrrolidin;;930-55-2
+4469;Orysastrobin;;248593-16-0
+4470;Oxipurinol;;2465-59-0
+4471;Perfluortridecanoat;;72629-94-8
+4472;Radafaxin Hydrochlorid;;106083-71-0
+4473;Tridesmethylvenlafaxin;;149289-29-2
+4474;Verapamil Metabolit D617;;34245-14-2
+4475;6:2 Fluorotelomer unsaturated carboxylate;;70887-88-6
+4476;8:2 Fluorotelomer unsaturated carboxylate;;70887-84-2
+4477;10:2 Fluorotelomer unsaturated carboxylate;;70887-94-4
+4478;Chlorantraniliprol;;500008-45-7
+4479;Desamino-Metamitron;;36993-94-9
+4480;Desaminometribuzin;;35045-02-4
+4481;R,S-Diclofop;;40843-25-2
+4482;Metolachlor-Morpholinon;;120375-14-6
+4483;R,S-Quizalofop;;76578-12-6
+4484;Thiofanat-methyl;;23564-05-8
+4485;2,3-Dimethylchinoxalin;;2379-55-7
+4486;3-Amino-4-chlorbenzotrifluorid;;121-50-6
+4487;2-Methoxy-4-nitroanilin;;97-52-9
+4488;2-Methoxy-5-nitroanilin;;99-59-2
+4489;Chloroneb;;2675-77-6
+4490;Dimethachlor ESA;;
+4491;Icaridin;;119515-38-7
+4492;Tebufenozid;;112410-23-8
+4493;Tetrapropylammonium;;13010-31-6
+4494;Summe Fluor aus PFAS;;
+4495;RS-Famoxadon;;131807-57-3
+4496;Ipconazol;;125225-28-7
+4497;RS-Miconazol;;22916-47-8
+4498;4,4'-Dichlorbenzophenon;;90-98-2
+4499;Dipropylenglykolmethylether;;34590-94-8
+4500;Azoxystrobinsäure;;1185255-09-7
+4501;Chlorthalonil-Metabolit R419492 (M8);;
+4502;Didesmethyl-Isoproturon;;56046-17-4
+4503;Dimoxystrobin Metabolit 505M08;;
+4504;Dimoxystrobin Metabolit 505M09;;1418095-11-0
+4505;Nicosulfuron Metabolit ASDM;;112006-75-4
+4506;Nicosulfuron Metabolit AUSN;;2307738-55-0
+4507;Pethoxamid Metabolit MET 42;;1330267-35-0
+4508;Quinmerac Metabolit BH 518-5;;
+4509;Terbuthylazin Metabolit CGA 324007;;309923-18-0
+4510;Terbuthylazin Metabolit SYN 545666;;
+4511;Trifloxystrobin-Dicarbonsäure;;
+4512;Tritosulfuron Metabolit BH 635-4;;
+4513;Amantadin;;768-94-5
+4515;AMPS;;15214-89-8
+4516;2,2',3,3',4,4',5,5',6-Nonabrombiphenylether;;63387-28-0
+4517;2,2',3,4,4',5,5',6-Octabrombiphenylether;;337513-72-1
+4518;2,2',4,4',5,5'-Hexabrombiphenyl;;59080-40-9
+4519;2,2',4,5',6-Pentabrombiphenyl;;59080-39-6
+4520;2,2',5,5'-Tetrabrombiphenyl;;59080-37-4
+4521;2,2',5,6'-Tetrabrombiphenyl;;60044-25-9
+4522;2,2',5-Tribrombiphenyl;;59080-34-1
+4523;2,2'-Dibrombiphenyl;;13029-09-9
+4524;2,4,5-Tribrombiphenyl;;115245-07-3
+4525;2,4',5-Tribrombiphenyl;;59080-36-3
+4526;2,4,6-Tribrombiphenyl;;59080-33-0
+4527;2,5-Dibrombiphenyl;;57422-77-2
+4528;2,6-Dibrombiphenyl;;59080-32-9
+4529;2-Brombiphenyl;;2502-07-5
+4530;3,3',5,5'-Tetrabrombiphenyl;;16400-50-3
+4531;3,4,5-Tribrombiphenyl;;115245-08-4
+4532;3-Brombiphenyl;;2113-57-7
+4533;Bis(4-bromphenyl)ether;;2050-47-7
+4534;4,4'-Dibrombiphenyl;;92-86-4
+4535;4-Bromobiphenyl;;92-66-0
+4536;1-Brom-4-phenoxybenzol;;101-55-3
+4537;Diisodecylphthalat;;26761-40-0
+4538;Diisononylphthalat;;28553-12-0
+4539;2,2',4,5'-Tetrabrombiphenylether;;243982-82-3
+4540;2,2',3,4,4',5'-Hexabrombiphenylether;;182677-30-1
+4541;Perfluordodecansulfonsäure;;79780-39-5
+4542;PCB-51;;68194-04-7
+4543;PCB-68;;73575-52-7

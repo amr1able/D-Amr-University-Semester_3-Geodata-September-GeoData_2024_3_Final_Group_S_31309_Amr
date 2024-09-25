@@ -1,0 +1,23 @@
+# OpenHyPE Course Material
+# R. Becker, 2023-02-12, V001
+
+# Use .gitignore to not share all solutions at once.
+# By default ignore all directories containing solutions denoted by trailing pattern _soln
+
+gi*/
+*_soln/
+*_dev/
+*_old/
+*_tmp/
+*_INCLASS/
+tmp/
+
+*.ipynb_checkpoints/
+*checkpoint.ipynb
+
+data/OpenGeodata.NRW/OpenHygrisC/OpenHygrisC_gw-messstellen-messwerte_EPSG25832_CSV/*
+data/OpenGeodata.NRW/OpenHygrisC/OpenHygrisC_gw-messstellen-messwerte_EPSG25832_CSV.zip
+
+
+#!gdms0100_DWD_NRW_soln
+
